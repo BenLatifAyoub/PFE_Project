@@ -1,0 +1,101 @@
+[{
+  "caption": "Fig. 2 – Medial aspect of the lateral femoral condyle, showing the ACL insertion.",
+  "captionBoundary": {
+    "x1": 309.0221862792969,
+    "x2": 517.2166748046875,
+    "y1": 322.912353515625,
+    "y2": 339.3387451171875
+  },
+  "figType": "Figure",
+  "imageText": ["DeepSuperficial", "Inferior", "Superior"],
+  "name": "2",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 310.56,
+    "x2": 546.24,
+    "y1": 65.28,
+    "y2": 312.0
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746278479_14256_main\\image\\upload_1746278479_14256_main-Figure2-1.png"
+}, {
+  "caption": "Fig. 3 – View of the medial region of the lateral femoral condyle, after removal of the ACL insertion, with",
+  "captionBoundary": {
+    "x1": 309.0221862792969,
+    "x2": 529.5618896484375,
+    "y1": 599.8150634765625,
+    "y2": 616.241455078125
+  },
+  "figType": "Figure",
+  "imageText": ["Deep", "Inferior", "Superficial", "Superior"],
+  "name": "3",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 308.64,
+    "x2": 549.12,
+    "y1": 351.36,
+    "y2": 588.9599999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746278479_14256_main\\image\\upload_1746278479_14256_main-Figure3-1.png"
+}, {
+  "caption": "Table 2 – Description of the various measurements of the ACL femoral insertion.",
+  "captionBoundary": {
+    "x1": 57.96369934082031,
+    "x2": 379.3359069824219,
+    "y1": 72.6959228515625,
+    "y2": 77.665283203125
+  },
+  "figType": "Table",
+  "imageText": ["NA,", "not", "assessed.", "a", "Sum", "of", "the", "anteromedial", "and", "posterolateral", "bundles.", "Source:", "File", "provided", "by", "the", "institution.", "Odensten", "&", "Gillquist12", "(1985)", "18", "±", "2", "11", "±", "2", "NA", "Mochizuchi", "et", "al.19", "(2006)", "15a", "4.7", "±", "0.6", "NA", "Ferreti", "et", "al.15", "(2007)", "17.2", "±", "1.2", "9.9", "±", "0.8", "196.8", "±", "23.1", "Siebold", "et", "al.16", "(2008)", "15", "±", "3", "8", "±", "2", "83", "±", "19", "Iwahashi", "et", "al.20", "(2010)", "17.4", "±", "0.9", "8.0", "±", "0.5", "128.3", "±", "10.5", "Sasaki", "et", "al.10", "(2012)", "17.7", "±", "2.7", "4.6", "±", "0.7", "NA", "Smigielski", "et", "al.13", "(2014)", "16.0", "(12.7–18.1)", "3.54", "(2.0–4.8)", "NA", "Present", "study", "16.49", "±", "2.12", "9.62", "±", "0.93", "99.77", "±", "11.33", "Reference", "Length", "(mm)", "Thickness", "(mm)", "Area", "(mm2)"],
+  "name": "2",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 50.879999999999995,
+    "x2": 549.12,
+    "y1": 78.72,
+    "y2": 222.72
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746278479_14256_main\\image\\upload_1746278479_14256_main-Table2-1.png"
+}, {
+  "caption": "Fig. 4 – A schematic medial view of the LFC, with the lines drawn and the delimitation of the ACL insertion area in blue. (1) Distance between the limit of the ACL insertion and the deep articular cartilage of the LFC (DDC); (2) distance between the limits of the insertion and the surface cartilage of the LFC (DSC); (3) distance between the limits of the insertion and the inferior articular cartilage (DIC) of the LFC. Source: File provided by the institution.",
+  "captionBoundary": {
+    "x1": 47.37419128417969,
+    "x2": 286.4670715332031,
+    "y1": 289.9124755859375,
+    "y2": 375.081298828125
+  },
+  "figType": "Figure",
+  "imageText": ["Deep", "Insertion", "area", "Inferior", "2", "3", "1", "Superior", "Superficial"],
+  "name": "4",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 48.96,
+    "x2": 284.15999999999997,
+    "y1": 66.24,
+    "y2": 278.88
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746278479_14256_main\\image\\upload_1746278479_14256_main-Figure4-1.png"
+}, {
+  "caption": "Table 1 – Distribution of the quantitative and qualitative variab",
+  "captionBoundary": {
+    "x1": 53.35179901123047,
+    "x2": 304.56573486328125,
+    "y1": 464.7448425292969,
+    "y2": 469.7142028808594
+  },
+  "figType": "Table",
+  "imageText": ["86.92", "8.13", "2.84", "3.93", "A", "90.10", "8.71", "3.20", "3.05", "C", "103.49", "8.72", "2.30", "1.09", "A", "98.74", "8.56", "2.67", "1.43", "A", "84.82", "10.11", "3.32", "3.60", "C", "105.67", "9.78", "2.34", "0.27", "B", "106.63", "12.05", "4.19", "2.49", "A", "117.21", "10.20", "4.5", "2.08", "A", "80.90", "8.10", "0.81", "0.93", "B", "105.52", "9.39", "4.29", "2.42", "A", "92.80", "11.28", "0.73", "0.52", "B", "109.89", "10.22", "3.40", "2.98", "A", "87.6", "11.02", "1.10", "0.56", "A", "111.47", "9.34", "0.98", "0.75", "B", "113.97", "11.39", "3.30", "2.12", "A", "101.12", "9.25", "2.05", "1.61", "A", "99.77", "9.77", "2.60", "1.86", "11.33", "1.21", "1.20", "1.15", "117.21", "12.05", "4.29", "3.93", "80.90", "8.10", "0.73", "0.27", "Anterior", "(mm)", "Posterior", "(mm)", "Distal", "(mm)", "ess", "Area", "(mm2)", "Type", "of", "insertion", "tion", "of", "the", "ACL", "Distance", "between", "ACL", "limit", "and", "articular", "cartilage", "Source:", "File", "provided", "by", "the", "institution.", "1", "96", "F", "49", "1.54", "20.66", "16.24", "9.82", "2", "76", "M", "70", "1.70", "24.22", "11.38", "7.85", "3", "58", "M", "78", "1.73", "26.6", "18.76", "9.45", "4", "58", "F", "54", "1.60", "21.09", "15.63", "8.79", "5", "70", "M", "65", "1.64", "24.17", "14.90", "8.20", "6", "68", "M", "60", "1.65", "22.04", "18.76", "9.78", "7", "57", "M", "80", "1.75", "26.12", "17.29", "10.74", "8", "92", "F", "52", "1.56", "21.37", "16.92", "10.10", "9", "73", "M", "89", "1.75", "29.06", "13.65", "8.56", "10", "92", "M", "60", "1.65", "22.04", "18.87", "10.12", "11", "65", "M", "74", "1.72", "25.01", "16.75", "9.89", "12", "70", "M", "58", "1.65", "21.30", "17.35", "11.23", "13", "74", "F", "56", "1.53", "23.92", "14.45", "9.80", "14", "66", "M", "60", "1.70", "20.76", "16.85", "10.60", "15", "87", "F", "51", "1.58", "20.43", "19.30", "9.89", "16", "91", "M", "63", "1.68", "22.32", "16.81", "9.03", "Mean", "74.56", "M", "63.69", "1.65", "23.16", "16.49", "9.62", "SD", "13.18", "11", "11.55", "0.07", "2.47", "2.12", "0.93", "Max.", "96", "F", "89.00", "1.75", "29.06", "19.30", "11.23", "Min", "57", "5", "49.00", "1.53", "20.43", "11.38", "7.85", "Length", "(mm)", "Thickn", "(mm)", "Age", "(years)", "Gender", "Weight", "(kg)", "Height", "(m)", "BMI", "Femoral", "inser"],
+  "name": "1",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 46.559999999999995,
+    "x2": 544.3199999999999,
+    "y1": 470.88,
+    "y2": 752.16
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746278479_14256_main\\image\\upload_1746278479_14256_main-Table1-1.png"
+}]

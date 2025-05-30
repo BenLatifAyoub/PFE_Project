@@ -1,0 +1,81 @@
+[{
+  "caption": "Table 2: Causes for preterm delivery in the control group (gestational age <34 weeks)",
+  "captionBoundary": {
+    "x1": 312.0799865722656,
+    "x2": 526.3517456054688,
+    "y1": 87.63581848144531,
+    "y2": 101.82025146484375
+  },
+  "figType": "Table",
+  "imageText": ["Reasons", "for", "preterm", "delivery", "(<=", "34", "weeks", "gestation)", "in", "the", "control", "group.", "The", "reasons", "are", "presented", "based", "on", "declining", "frequency.", "Note", "that", "multiple", "answers", "are", "possible,", "e.g.", "most", "patients", "with", "multiple", "gestation", "were", "delivered", "for", "preterm", "labour.", "Preterm", "labour", "(single)", "20", "Multiple", "gestation", "12", "Fetal", "distress", "8", "IUGR", "6", "Fetal", "abnormalities", "2", "Placenta", "praevia", "2", "Uterine", "rupture", "1", "Indication", "N"],
+  "name": "2",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 312.0,
+    "x2": 554.4,
+    "y1": 109.92,
+    "y2": 255.35999999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746629822_8988_1477-7827-7-132\\image\\upload_1746629822_8988_1477-7827-7-132-Table2-1.png"
+}, {
+  "caption": "Table 1: Clinical data of the patients.",
+  "captionBoundary": {
+    "x1": 54.13999938964844,
+    "x2": 191.18531799316406,
+    "y1": 578.1956787109375,
+    "y2": 582.89990234375
+  },
+  "figType": "Table",
+  "imageText": ["This", "table", "shows", "the", "median", "age,", "gestational", "age", "at", "delivery", "and", "birth", "weight", "including", "25", "and", "75%", "quartiles.", "The", "mode", "of", "delivery", "(rate", "of", "cesarean", "sections", "in", "percent)", "and", "the", "number", "of", "multiple", "gestations", "is", "also", "provided.", "Number", "of", "patients", "33", "66", "Age", "31", "[27;", "35]", "30", "[27;", "34]", "Gestational", "age", "33", "[29;", "35]", "34", "[30;", "37]", "Birth", "weight", "1530", "[1015;", "2200]", "2000", "[1434;", "2669]", "Caesarean", "sections", "(%)", "90.9%", "86.4%", "Multiple", "gestation", "2", "26", "Fetal", "growth", "restriction", "45%", "12%", "PE", "Control"],
+  "name": "1",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 53.76,
+    "x2": 296.15999999999997,
+    "y1": 590.88,
+    "y2": 736.3199999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746629822_8988_1477-7827-7-132\\image\\upload_1746629822_8988_1477-7827-7-132-Table1-1.png"
+}, {
+  "caption": "Table 4: Monoclonal (mouse) antibodies used for FACS-analysis",
+  "captionBoundary": {
+    "x1": 54.13999938964844,
+    "x2": 291.19146728515625,
+    "y1": 528.935791015625,
+    "y2": 533.6400146484375
+  },
+  "figType": "Table",
+  "imageText": ["Page", "4", "of", "11", "(page", "number", "not", "for", "citation", "purposes)", "Antibodies", "used", "for", "flow", "cytometric", "analysis", "of", "isolated", "mononuclear", "decidual", "cells.", "BC:", "Beckmann", "Coulter,", "Krefeld,", "Germany", "BD-Ph:", "BD", "Biosciences", "-", "Pharmingen,", "Heidelberg,", "Germany", "RD:", "R&D-Systems,", "Heidelberg,", "Germany", "CD4", "RPA-T4", "IgG1", "PE", "1:20", "BD-Ph", "CD8", "RPA-T8", "IgG1", "PE", "1:20", "BD-Ph", "CD14", "M5E2", "IgG2a", "PE", "1:20", "BD-Ph", "CD16", "3G8", "IgG1", "PE", "+", "FITC", "1:20", "BD-Ph", "CD19", "HIB19", "IgG1", "PE", "1:20", "BD-Ph", "CD25", "B1.49.9", "IgG2a", "PE", "1:10", "BC", "CD45", "HI30", "IgG1", "FITC", "1:20", "BD-Ph", "CD56", "B159", "IgG1", "PE", "1:20", "BD-Ph", "Dc-Sign", "120507", "IgG2b", "PE", "1:20", "RD", "HLA-DR", "TÜ36", "IgG2b", "PE", "1:20", "BD-Ph", "ab-T", "BMA031", "IgG2b", "PE", "1:10", "BC", "gd-T", "IMMU", "510", "IgG1", "PE", "1:10", "BC", "Antigen", "Clone", "Isotype", "Conjugation", "Dilution", "Supplier"],
+  "name": "4",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 53.76,
+    "x2": 554.4,
+    "y1": 541.92,
+    "y2": 776.64
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746629822_8988_1477-7827-7-132\\image\\upload_1746629822_8988_1477-7827-7-132-Table4-1.png"
+}, {
+  "caption": "Table 3: Comparison of the two methods of decidual cell preparation",
+  "captionBoundary": {
+    "x1": 54.13999938964844,
+    "x2": 311.8533020019531,
+    "y1": 87.63581848144531,
+    "y2": 92.34002685546875
+  },
+  "figType": "Table",
+  "imageText": ["Quart", "=", "Quartile;", "1.", "Quart:", "25%;", "2.", "Quart:", "75%.", "P-values", "were", "calculated", "by", "the", "Mann-Whitney-U-Test.", "Median,", "quartiles", "and", "p-values", "of", "the", "cell", "populations", "examined", "by", "FAX", "analysis", "comparing", "decidua", "obtained", "from", "the", "uterine", "cavity", "via", "curettage", "and", "prepared", "from", "the", "placenta", "(n", "=", "12", "in", "both", "cases,", "gestational", "week:", "33-39).", "Decidua", "was", "obtained", "either", "via", "curettage", "during", "caesarean", "section", "(attachment", "site", "of", "the", "placenta", "plus", "adjacent", "decidua)", "or", "from", "the", "corresponding", "placenta", "via", "preparation", "of", "the", "visible", "decidua", "from", "the", "basal", "plate", "directly", "after", "delivery", "of", "the", "placenta.", "To", "reduce", "contamination", "with", "peripheral", "blood", "cells", "to", "a", "minimum,", "samples", "were", "carefully", "cleaned", "of", "all", "visible", "signs", "of", "peripheral", "blood", "through", "careful", "washing.", "Data", "are", "provided", "as", "median,", "quartiles", "and", "p-values.", "NS", "=", "difference", "statistically", "not", "significant.", "CD56", "52.3", "47.3", "59.8", "42.0", "38.9", "73.2", "n.s.", "CD16", "25.5", "9.2", "33.3", "17.0", "14.0", "26.7", "n.s.", "CD56+/CD16+", "10.2", "8.1", "14.3", "13.2", "6", "24.7", "n.s.", "CD56++/CD16-", "40.9", "36.3", "52.1", "33.4", "24.1", "38.3", "n.s.", "HLA-DR", "24.2", "20.6", "32.1", "26.4", "13.1", "30.7", "n.s.", "DC-Sign", "8", "6.8", "12.1", "5.9", "3.0", "14.7", "n.s.", "CD14", "16.9", "8.7", "20.2", "15.0", "12.7", "29.2", "n.s.", "CD8", "27.0", "23.5", "33.5", "28.8", "23.5", "34.9", "n.s.", "CD4", "29.8", "22.8", "33.6", "34.1", "28.6", "41.7", "n.s.", "??-T", "37.5", "33.0", "45.0", "40.5", "32.1", "46.1", "n.s.", "??-T", "3.0", "1.6", "5.0", "2.6", "1.3", "3.4", "n.s.", "CD25", "5.1", "2.7", "6.8", "3.2", "1.9", "6.0", "n.s.", "CD19", "1.6", "1.2", "4", "2.9", "1.9", "3.8", "n.s.", "Marker", "on", "cells", "in", "%", "of", "CD45+", "cells", "CD45", "(of", "all", "cells)", "46.1", "21.2", "54.7", "34.0", "24.7", "41.3", "n.s.", "Decidua", "(uterus)", "Decidua", "(placenta)", "Antigen", "Median", "1.", "Quart", "2.", "Quart", "Median", "1.", "Quart", "2.", "Quart", "p"],
+  "name": "3",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 53.76,
+    "x2": 554.4,
+    "y1": 99.84,
+    "y2": 386.4
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746629822_8988_1477-7827-7-132\\image\\upload_1746629822_8988_1477-7827-7-132-Table3-1.png"
+}]

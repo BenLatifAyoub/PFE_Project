@@ -1,0 +1,437 @@
+/* MultiArticleCourseGenerator.css */
+
+/* --- Theme Variables (copied from analyze.css) --- */
+:root {
+  --bg-page: #121212;
+  --bg-panel: rgba(33, 33, 33, 0.9);
+  --bg-panel-hover: rgba(45, 45, 45, 0.95);
+  --text-primary: #e0e0e0;
+  --text-secondary: #bdbdbd;
+  --text-heading: #ffffff;
+  --accent-primary: #ffb74d; /* Orange/Amber */
+  --accent-secondary: #81d4fa; /* Light Blue */
+  --accent-tertiary: #ce93d8; /* Purple */
+  --accent-success: #66bb6a; /* Green */
+  --accent-error: #ef5350; /* Red */
+  --accent-warning: #ffa726;
+  --accent-info: #29b6f6; /* Light blue for info messages */
+  --border-color-light: #424242;
+  --border-color-medium: #616161;
+  --border-color-accent: var(--accent-primary);
+  --button-primary-bg: var(--accent-primary);
+  --button-primary-text: #111111;
+  --button-secondary-bg: #616161;
+  --button-secondary-text: #ffffff;
+  --button-theme-bg: var(--accent-secondary); /* Light blue for theme buttons */
+  --button-theme-text: #111111;
+  --button-theme-hover-bg: #4fc3f7;
+  --button-disabled-bg: #757575;
+  --button-disabled-text: #bdbdbd;
+  --input-bg: #424242;
+  --input-border: var(--border-color-medium);
+  --input-focus-border: var(--accent-primary);
+  --input-text: var(--text-primary);
+
+  --shadow-light: 0 2px 4px rgba(0, 0, 0, 0.2);
+  --shadow-medium: 0 4px 8px rgba(0, 0, 0, 0.3);
+  --shadow-heavy: 0 6px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* --- Base Page Styles --- */
+.multi-article-page-container {
+  display: flex;
+  flex-direction: column; /* Changed from flex for simpler centering of main content */
+  align-items: center; /* Center main content block */
+  min-height: 100vh;
+  background-color: transparent;
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.6;
+  padding: 20px; /* Add some padding around the page */
+  box-sizing: border-box;
+}
+
+.multi-article-main-content {
+  width: 100%;
+  max-width: 900px; /* Max width for content readability */
+  display: flex;
+  flex-direction: column;
+  gap: 30px; /* Space between panels */
+}
+
+.page-main-title {
+  text-align: center;
+  color: var(--text-heading);
+  font-size: 2em;
+  margin-bottom: 10px; /* Reduced from default h1 margin */
+  border-bottom: 2px solid var(--accent-primary);
+  padding-bottom: 15px;
+}
+
+/* --- Control Panel (for Step 1) & Results Panel (for Step 2 & 3) --- */
+.control-panel,
+.results-panel {
+  padding: 25px 30px;
+  background-color: var(--bg-panel);
+  border-radius: 12px;
+  box-shadow: var(--shadow-medium);
+  border: 1px solid var(--border-color-light);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  justify-items: center;
+}
+
+.control-panel:hover,
+.results-panel:hover {
+  background-color: var(--bg-panel-hover);
+  box-shadow: var(--shadow-heavy);
+}
+
+.panel-title {
+  font-weight: bold;
+  margin-top: 0; /* Remove default h2/h3 margin */
+  margin-bottom: 20px;
+  text-align: left;
+  font-size: 1.6em;
+  color: var(--accent-primary);
+  border-bottom: 1px solid var(--border-color-medium);
+  padding-bottom: 10px;
+}
+
+.panel-subtitle {
+  color: var(--text-secondary);
+  margin-top: -10px;
+  margin-bottom: 20px;
+  font-size: 0.95em;
+
+}
+
+/* --- File Input --- */
+.file-input-container-macg { /* Specific to avoid conflicts */
+  margin-bottom: 20px;
+  width: 100vw;
+  max-width: 800px
+}
+
+.file-input-element {
+  padding: 12px 15px;
+  background-color: var(--input-bg);
+  color: var(--input-text);
+  border: 1px solid var(--input-border);
+  border-radius: 8px;
+  width: 100%;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: border-color 0.3s ease;
+}
+
+.file-input-element:hover:not(:disabled),
+.file-input-element:focus:not(:disabled) {
+  border-color: var(--input-focus-border);
+}
+
+.file-input-element:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+/* --- Action Buttons --- */
+.action-buttons-macg { /* Specific to avoid conflicts */
+  display: flex;
+  gap: 15px;
+  justify-content: flex-start; /* Align to start */
+}
+
+/* --- General Button Styles (adapted from analyze.css) --- */
+.button {
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+  padding: 10px 20px; /* Slightly smaller padding for general use */
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  font-size: 1em;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px; /* Space between icon/spinner and text */
+}
+
+.button:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-light);
+}
+
+.button:active:not(:disabled) {
+  transform: translateY(0px);
+}
+
+.button:disabled {
+  cursor: not-allowed;
+  background-color: var(--button-disabled-bg) !important;
+  color: var(--button-disabled-text) !important;
+  box-shadow: none;
+}
+
+.button-primary {
+  background-color: var(--button-primary-bg);
+  color: var(--button-primary-text);
+}
+.button-primary:hover:not(:disabled) {
+  background-color: #ffca28; /* Lighter amber */
+}
+
+.button-theme-select {
+  background-color: var(--button-theme-bg);
+  color: var(--button-theme-text);
+  width: 100%;
+  text-align: left;
+  padding: 12px 18px; /* More padding for these buttons */
+  font-size: 1.05em;
+}
+.button-theme-select:hover:not(:disabled) {
+  background-color: var(--button-theme-hover-bg);
+}
+
+
+/* --- Status/Loading Area --- */
+.status-area {
+  margin-top: 0; /* No extra top margin, handled by main-content gap */
+  text-align: center;
+  min-height: 24px;
+  padding: 10px;
+  border-radius: 8px;
+  /* background-color: rgba(0,0,0,0.1); Optional subtle background */
+}
+
+.loading-indicator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  color: var(--text-secondary);
+  margin: 10px 0;
+}
+
+.status-message {
+  font-weight: 500;
+  white-space: pre-wrap;
+  padding: 8px 12px;
+  border-radius: 6px;
+  margin: 5px 0; /* Add some margin if multiple messages */
+}
+.status-message.success {
+  color: #1b5e20; /* Darker green text for better contrast on light green */
+  background-color: var(--accent-success);
+  border: 1px solid #388e3c;
+}
+.status-message.error {
+  color: #b71c1c; /* Darker red text */
+  background-color: var(--accent-error);
+  border: 1px solid #d32f2f;
+}
+.status-message.info { /* For general status messages */
+  color: #01579b; /* Darker blue text */
+  background-color: var(--accent-info);
+  border: 1px solid #0288d1;
+}
+
+
+/* --- Theme Options (Step 2) --- */
+.theme-options-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.theme-item {
+  border: 1px solid var(--border-color-light);
+  padding: 15px;
+  border-radius: 8px;
+  background-color: rgba(0,0,0,0.1); /* Subtle bg for each item */
+  transition: border-color 0.3s, background-color 0.3s;
+}
+.theme-item.selected {
+  border-color: var(--accent-primary);
+  background-color: rgba(255, 183, 77, 0.1); /* Light amber highlight */
+}
+
+.theme-item .button-theme-select { /* Already styled above */
+  margin-bottom: 10px;
+}
+
+.theme-description {
+  margin: 0;
+  font-size: 0.9em;
+  color: var(--text-secondary);
+  white-space: pre-line; /* Respect newlines in description if any */
+  padding-left: 5px;
+}
+
+/* --- Generated Course Outline (Step 3) --- */
+.course-theme-title {
+  font-size: 1.1em;
+  color: var(--text-secondary);
+  margin-bottom: 15px;
+  font-style: italic;
+}
+
+.course-outline-text {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  background-color: #2c2c2c; /* Slightly lighter dark for contrast */
+  padding: 15px;
+  border: 1px solid var(--border-color-light);
+  border-radius: 6px;
+  color: var(--text-primary);
+  font-family: 'Courier New', Courier, monospace; /* Monospace for outlines */
+  max-height: 600px; /* Or desired max height */
+  overflow-y: auto;
+}
+
+/* --- Loading Spinners (copied from analyze.css) --- */
+.loading-spinner {
+  border: 4px solid rgba(255, 255, 255, 0.2);
+  border-top: 4px solid var(--accent-primary);
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  animation: spin 1s linear infinite;
+}
+
+.loading-spinner-small {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 3px solid rgba(var(--accent-primary-rgb, 255, 183, 77), 0.3); /* Ensure primary has RGB vars if used like this */
+  border-top-color: var(--accent-primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  vertical-align: middle;
+}
+/* If --accent-primary-rgb isn't defined, a simpler approach: */
+/* .loading-spinner-small {
+  border: 3px solid rgba(255, 183, 77, 0.3);  Use direct color with opacity
+  border-top-color: var(--accent-primary);
+  ...
+} */
+
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* --- Responsive Adjustments --- */
+@media (max-width: 768px) {
+  .multi-article-main-content {
+    gap: 20px;
+  }
+  .control-panel, .results-panel {
+    padding: 20px;
+  }
+  .panel-title {
+    font-size: 1.4em;
+  }
+  .page-main-title {
+    font-size: 1.6em;
+  }
+  .action-buttons-macg {
+    flex-direction: column;
+  }
+  .button {
+    width: 100%;
+  }
+  .button-theme-select {
+    font-size: 1em;
+  }
+}
+
+/* generate.css (add these or modify existing) */
+
+/* ... (keep your existing styles for .multi-article-page-container, .control-panel, etc.) ... */
+
+/* Styles for the rendered Markdown content */
+.markdown-render-area {
+  background-color: #2c2c2c; /* Slightly lighter dark for contrast */
+  padding: 20px;
+  border: 1px solid var(--border-color-light);
+  border-radius: 6px;
+  color: var(--text-primary);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* More readable font */
+  line-height: 1.7;
+  max-height: 70vh; /* Adjust as needed */
+  overflow-y: auto;
+}
+
+.markdown-render-area .md-h2 {
+  font-size: 1.7em;
+  color: var(--accent-primary);
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--border-color-medium);
+}
+.markdown-render-area .md-h2:first-child {
+  margin-top: 0;
+}
+
+.markdown-render-area .md-h3 {
+  font-size: 1.4em;
+  color: var(--accent-secondary);
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+.markdown-render-area .md-h4 {
+  font-size: 1.2em;
+  color: var(--accent-tertiary);
+  margin-top: 0.8em;
+  margin-bottom: 0.4em;
+}
+
+.markdown-render-area .md-p {
+  margin-bottom: 0.8em;
+}
+.markdown-render-area .md-p:last-child {
+  margin-bottom: 0;
+}
+
+
+.markdown-render-area .md-ul,
+.markdown-render-area .md-ol {
+  margin-left: 25px; /* Indent lists */
+  margin-bottom: 0.8em;
+  padding-left: 20px; /* Padding for list markers */
+}
+
+.markdown-render-area .md-ul li,
+.markdown-render-area .md-ol li {
+  margin-bottom: 0.4em;
+}
+
+.markdown-render-area strong {
+  font-weight: bold;
+  color: var(--text-heading); /* Or a slightly brighter color */
+}
+
+.markdown-render-area br {
+    display: block; /* make sure br actually creates a line break */
+    margin-bottom: 0.5em; /* space after a br, adjust as needed */
+    content: "";
+}
+
+
+/* Optional: Style for the Download PDF button if you used button-secondary */
+.button-secondary {
+  background-color: var(--button-secondary-bg);
+  color: var(--button-secondary-text);
+  padding: 10px 20px; 
+  width: 200px;/* Consistent padding */
+}
+.button-secondary:hover:not(:disabled) {
+  background-color: #757575; /* Slightly lighter grey */
+}
+
+/* Adjust course-outline-text if it was previously for <pre> */
+/* If you had .course-outline-text, you can remove it or adapt its general container properties for .markdown-render-area */

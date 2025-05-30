@@ -1,0 +1,162 @@
+.container {
+    place-items: center; 
+    place-content: center;
+    background: url('ChatGPT Image 16 avr. 2025, 14_38_50.png') center/cover no-repeat;
+    height: 100vh;
+    width: 100vw;
+    
+  
+  }
+  .form-container {
+    height: 80vh;
+    width: 20vw;
+    background-color: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(65px);
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 3rem;
+  }
+  
+  /* Form header */
+  .form-container h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  /* Form group styling */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #fff;
+  }
+  
+  .form-group input[type="text"],
+  .form-group input[type="password"],
+  .form-group input[type="username"],
+  .form-group input[type="email"],
+  .form-group input[type="range"],
+  .form-group select,
+  .form-group textarea {
+    width: 20vw;
+    padding: 10px;
+    border: 2px solid transparent;
+    border-bottom-color: #fff;
+    font-size: 16px;
+    background-color: transparent;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input[type="text"]:focus,
+  .form-group input[type="password"]:focus,
+  .form-group input[type="username"],
+  .form-group input[type="email"],
+  .form-group input[type="range"]:focus,
+  .form-group select:focus,
+  .form-group textarea:focus {
+    border: 2px solid transparent;
+    border-bottom-color: #fff;
+    color:  #fff;
+    outline: none;
+  }
+  .password-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .toggle-password {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  /* Success and error messages */
+  .success-message,
+  .error-message {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .success-message {
+    background-color: #d4edda;
+    color: #155724;
+  }
+  
+  .error-message {
+    background-color: #f8d7da;
+    color: #721c24;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+
+  }
+  
+  button.signup-button {
+    background: linear-gradient(45deg, #3D5D4F, #3D5D4F); /* Cool blue gradient */
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.4s ease, transform 0.3s ease;
+    width: 48%;
+    border: 0.5px solid #fff;
+  }
+  
+  button.login-button {
+    background: linear-gradient(45deg, #ffb74d, #ffb74d); /* Cool pink to orange gradient */
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.4s ease, transform 0.3s ease;
+    width: 48%;
+    border: 0.5px solid #fff;
+  }
+  
+  button.signup-button:hover {
+    background: linear-gradient(45deg, #3D5D4F, #3D5D4F); 
+    transform: scale(1.05);
+  }
+  
+  button.login-button:hover {
+    background: linear-gradient(45deg, #ffb74d, #ffb74d); 
+    transform: scale(1.05);
+  }
+  .icon-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+  }
+  
+  .arrow-icon {
+    width: 60px; /* Standard icon size */
+    height: 60px; /* Standard icon size */
+    display: block; /* Ensures proper centering */
+    margin: 10px auto; /* Centers the image horizontally and adds spacing */
+    cursor: pointer; /* Suggests interactivity, if applicable */
+    transition: transform 0.2s ease;
+  }
+  
+  .arrow-icon:hover {
+    transform: scale(1.2); /* Slightly enlarges on hover for feedback */
+  }

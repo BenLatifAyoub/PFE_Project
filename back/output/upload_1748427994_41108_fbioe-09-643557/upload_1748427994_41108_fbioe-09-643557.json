@@ -1,0 +1,281 @@
+[{
+  "caption": "FIGURE 8 | Compressive strength evolution curves of the 10Sr-CPC-c samples immerse in SBF for different hydration stages.",
+  "captionBoundary": {
+    "x1": 51.20600128173828,
+    "x2": 263.333984375,
+    "y1": 266.01251220703125,
+    "y2": 279.65301513671875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "8",
+  "page": 10,
+  "regionBoundary": {
+    "x1": 46.559999999999995,
+    "x2": 289.44,
+    "y1": 65.28,
+    "y2": 266.4
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Figure8-1.png"
+}, {
+  "caption": "FIGURE 1 | The XRD patterns of ?-TCP containing different Sr contents: (a) ?-TCP; (b) 8.3%Sr-?-TCP; and (c) 16.7%Sr-?-TCP.",
+  "captionBoundary": {
+    "x1": 51.20599365234375,
+    "x2": 278.06903076171875,
+    "y1": 472.24151611328125,
+    "y2": 485.8810119628906
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 46.559999999999995,
+    "x2": 289.44,
+    "y1": 281.28,
+    "y2": 472.32
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Figure1-1.png"
+}, {
+  "caption": "FIGURE 2 | The XRD pattern of Ca4(PO4)2O.",
+  "captionBoundary": {
+    "x1": 51.20600128173828,
+    "x2": 187.6089630126953,
+    "y1": 699.446533203125,
+    "y2": 704.8280029296875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "2",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 46.559999999999995,
+    "x2": 289.44,
+    "y1": 507.35999999999996,
+    "y2": 708.9599999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Figure2-1.png"
+}, {
+  "caption": "FIGURE 3 | XRD patterns of various Sr-CPC samples after immersed in SBF at 37?C for 72 h: (a) 0Sr-CPC-a; (b) 5Sr-CPC-b; and (c) 10Sr-CPC-c.",
+  "captionBoundary": {
+    "x1": 309.89300537109375,
+    "x2": 539.7589111328125,
+    "y1": 690.1255493164062,
+    "y2": 703.7650146484375
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "3",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 305.76,
+    "x2": 548.16,
+    "y1": 498.24,
+    "y2": 690.24
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Figure3-1.png"
+}, {
+  "caption": "FIGURE 7 | The real-time FESEM photographs of 10Sr-CPC-c samples after hydrating in SBF for different time: (A) 30 min; (B) 1 h; (C) 2 h; (D) 6 h; (E) 10 h; (F) 15 h; (G) 24 h; and (H) 72 h.",
+  "captionBoundary": {
+    "x1": 51.207000732421875,
+    "x2": 533.674072265625,
+    "y1": 630.3575439453125,
+    "y2": 643.998046875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "7",
+  "page": 9,
+  "regionBoundary": {
+    "x1": 46.559999999999995,
+    "x2": 548.16,
+    "y1": 65.28,
+    "y2": 648.0
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Figure7-1.png"
+}, {
+  "caption": "TABLE 1 | Several Sr-CPC bone cements in the present available literatures.",
+  "captionBoundary": {
+    "x1": 44.97999954223633,
+    "x2": 274.11798095703125,
+    "y1": 64.0495376586914,
+    "y2": 68.22503662109375
+  },
+  "figType": "Table",
+  "imageText": ["Frontiers", "in", "Bioengineering", "and", "Biotechnology", "|", "www.frontiersin.org", "3", "March", "2021", "|", "Volume", "9", "|", "Article", "643557", "(Continued)", "Tadier", "et", "al.,", "2012", "Merits:", "enhancing", "cell", "proliferation.", "Demerits:", "lower", "porosity.", "Powder", "phases:", "DCPD,", "CC,", "SC", "Liquid", "phases:", "deionized", "water", "or", "Powder", "phases:", "DCPD,", "CC", "Liquid", "phases:", "SrCl2·6H2O", "solution", "CC,", "carbonated", "apatite,", "SC", "or", "CC,", "S-HAP", "Sr-loaded", "mineral", "bone", "cements", "Merits:", "good", "in", "vitro", "bioactivity.", "Demerits:", "lower", "compressive", "strength,", "<20", "MPa.", "Saint-Jean", "et", "al.,", "2005", "Sr-HAP,", "unreacted", "?-TCP.", "Powder", "phases:", "Sr-?-TCP", "Liquid", "phases:", "2.5wt.%", "Na2HPO4", "accelerating", "solution", "Sr-substituted", "?-TCP", "cements", "Baier", "et", "al.,", "2013", "HAP", "Merits:", "compressive", "strength,", "34", "MPa.", "Demerits:", "the", "data", "about", "its", "setting", "time", "is", "not", "available.", "Sr-containing", "CPC", "Powder", "phases:", "TCP,", "DSPA,", "SC,", "HAP", "Liquid", "phases:", "an", "aqueous", "solution", "of", "3", "M", "K2HPO4", "and", "1.5", "M", "KH2PO4", "Panzavolta", "et", "al.,", "2008", "Powder", "phases:", "gelatin-?-TCP,", "DCPD,", "SrCl2·6H2O", "Liquid", "phases:", "distilled", "water", "?-TCP,", "calcium-de?cient", "HAP", "Merits:", "tI", "=", "4?10", "min,", "tF", "=", "8?20", "min", "(Sr%", "?2.0).", "Demerits:", "lower", "wet", "compressive", "strength,", "<13", "MPa.", "Sr-enriched", "gelatin-CPC", "CPC", "Powder", "phases:", "Sr-TTCP,", "DCPA", "Liquid", "phases:", "phosphate", "buffer", "solution,", "trisodium", "citrate", "HAP,", "remaining", "TTCP", "Merits:", "higher", "compressive", "strength,", "38.66?60.20", "MPa;", "faster", "degradation", "rate;", "suitable", "setting", "time,", "10?17", "min.", "Demerits:", "the", "data", "about", "its", "biocompatibility", "is", "not", "available.", "Tao", "et", "al.,", "2013", "López", "et", "al.,", "2014", "Merits:", "increased", "solubility;", "higher", "radiopacity.", "Demerits:", "lower", "wet", "compressive", "strength,", "<8", "MPa;", "lower", "diametral", "tensile", "strength,", "<4", "MPa.", "Complex", "phases", "in", "cement", "powder.", "DCPD,", "?-Ca2P2O7,", "?-TCP,", "Monetite,", "unreacted", "SrF2", "Powder", "phases:", "MCPM,", "Na2H2P2O7,", "?-TCP,", "SrF2/SrI2/SrBr2/SrCl2·6H2O", "Liquid", "phases:", "distilled", "water", "Radiopaque", "brushite", "cements", "Kuang", "et", "al.,", "2012", "Apatite", "Merits:", "tI", "=", "6?10", "min,", "tF", "=", "13?20", "min.", "Demerits:", "lower", "compressive", "strength,", "4?14", "MPa.", "Powder", "phases:", "TTCP,", "DCPA,", "DSPA", "Liquid", "phases:", "a", "combination", "of", "citric", "acid", "and", "12", "wt.%", "polyvinylpyrrolidone", "K-30", "Sr-incorporated", "CPC", "Schumacher", "et", "al.,", "2013", "Merits:", "higher", "compressive", "strength,", "?57.7", "MPa.", "Demerits:", "complex", "(5)", "phases", "in", "cement", "powder;", "longer", "setting", "time,", "tI", "=", "7.5?15", "or", ">15", "min;", "tF", "=", "25?34", "min.", "HAP,", "CC,", "SC,", "?-TCP,", "monetite", "aqueous", "solution", "A", "easy-to-prepare", "Sr(II)-modi?ed", "CPC", "Powder", "phases:?-TCP,", "DCPA,", "CC,", "SC,", "HAP", "Liquid", "phases:", "4", "wt.%", "Na2HPO4", "Romieu", "et", "al.,", "2010", "Merits:", "enhanced", "degradation", "rate", "of", "HAP.", "Demerits:", "lower", "compressive", "strength,", "15.5?20.1", "MPa.", "Sr1.35Ca7.65(HPO4)z", "(PO4)6?z", "(CO3)z/2", "Ca–Sr-mixed", "phosphate", "cement", "Powder", "phases:", "DCPD,", "CaO,", "SC", "Liquid", "phases:", "ammonium", "phosphate", "buffer", "Pina", "et", "al.,", "2010", "Merits:", "expectable", "degradability.", "Demerits:", "lower", "compressive", "strength,", "13.7", "MPa;", "complex", "liquid", "phase", "composite.", "Powder", "phases:", "Sr-?-TCP", "Liquid", "phases:", "10", "wt.%", "poly(ethylene", "glycol),", "20", "wt.%", "citric", "acid", "solution;", "or", "0.5", "wt.%", "hydroxyl", "propyl", "methylcellulose,", "10", "wt.%", "poly(ethylene", "glycol),", "20", "wt.%", "citric", "acid", "solution", "DCPD,", "unreacted", "Sr-?-TCP", "Newly", "developed", "Sr-substituted", "?-TCP", "bone", "cements", "Yu", "et", "al.,", "2009", "Sr-HAP,", "unreacted", "DCPA", "Merits:", "higher", "compressive", "strength,", "37?74.9", "MPa;", "porosity,", "55.7?58.2%.", "Demerits:", "the", "setting", "time", "is", "out", "of", "clinical", "requirement,", "tI", "=", "21?28", "min;", "tF", "=", "37?52", "min.", "Sr-containing", "CPC", "Powder", "phases:", "Sr-ACP,", "DCPA", "Liquid", "phases:", "deionized", "water", "Alkhraisat", "et", "al.,", "2008b", "Ca(1?0.25x", ")Sr0.25x", "HPO4·(n+1)H2O", "Merits:", "good", "releasing", "effect", "of", "Sr2+", "ions.", "Demerits:", "the", "data", "about", "its", "mechanical", "properties", "is", "not", "available.", "Powder", "phases:", "Sr-?-TCP,", "MCPM", "Liquid", "phases:", "Water", "Sr", "modi?ed", "biocements", "Alkhraisat", "et", "al.,", "2008a", "Merits:", "excellent", "cohesion", "and", "a", "diametric", "tensile", "strength", "of", "5", "MPa.", "Demerits:", "some", "Cl?", "ions", "remained", "in", "the", "?nal", "hardened", "body", "and", "more", "than", "3", "powder", "phases.", "Powder", "phases:", "?-TCP,", "Ca(H2PO4)2,", "SrCl2,", "Na4P2O7", "Liquid", "phases:", "2M", "PA", "solution", "Sr-DCPD,", "unreacted", "?-TCP", "Sr-containing", "brushite", "cement", "Lerous", "and", "Lacout,", "2001", "?)", "contained", "in", "the", "?nal", "hardened", "body.", "Sr-HAP", "Merits:", "easily", "prepared.", "Demerits:", "high", "dose", "of", "impurity", "ions", "(NO3", "Powder", "phases:", "TTCP,", "?-TCP", "Liquid", "phases:", "Strontium", "nitrate,", "orthophosphoric", "acid", "Calcium", "strontium", "HAP", "cements", "Li", "et", "al.,", "2000", "Sr-HAP,", "D-GMA", "resin", "Merits:", "excellent", "injectability", "and", "radiopacity.", "Demerits:", "lower", "compressive", "strength,", "7.15", "MPa;", "lower", "degradation", "rate", "for", "the", "resin", "in", "vivo.", "Injectable", "bioactive", "bone", "cement", "Powder", "phases:", "Sr-HAP,", "reinforcing", "silica", "Liquid", "phases:", "D-GMA", "resin", "Guo", "et", "al.,", "2005a", "Ca10?m?xSrx_m(HPO4)y", "(PO4)6?y", "(OH)2?2m_2m", "(0", "<", "x", "<", "1),", "nSr-HAP", "Merits:", "higher", "compressive", "strength,", "38.2?66.5", "MPa;", "tI:tI", "=", "4?11", "min;", "tF:tF", "=", "10?17", "min", "(PA", ">", "0.5", "mol", "L?1);", "no", "impurity", "in", "?nal", "product.", "Demerits:", "the", "data", "obtained", "in", "vivo", "is", "not", "enough.", "Powder", "phases:", "TTCP,", "DCPA,", "DSPA", "Liquid", "phases:", "PA", "Sr-HAP", "bone", "cement", "Name", "Composition", "Hydration", "products", "Major", "merits", "and", "demerits", "Literatures"],
+  "name": "1",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 43.68,
+    "x2": 551.04,
+    "y1": 75.36,
+    "y2": 748.8
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Table1-1.png"
+}, {
+  "caption": "FIGURE 5 | The SEM morphologies in the typical areas on the fractured surfaces of various Sr-CPC cements after immersed in SBF at 37?C for 72 h: (A,D) 0Sr-CPC-a; (B,E) 5Sr-CPC-b; and (C,F) 10Sr-CPC-c.",
+  "captionBoundary": {
+    "x1": 51.20697021484375,
+    "x2": 517.7919921875,
+    "y1": 691.7105102539062,
+    "y2": 705.3510131835938
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "5",
+  "page": 7,
+  "regionBoundary": {
+    "x1": 46.559999999999995,
+    "x2": 548.16,
+    "y1": 406.08,
+    "y2": 692.16
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Figure5-1.png"
+}, {
+  "caption": "TABLE 1 | Continued",
+  "captionBoundary": {
+    "x1": 44.97999954223633,
+    "x2": 109.55500793457031,
+    "y1": 64.0495376586914,
+    "y2": 68.22503662109375
+  },
+  "figType": "Table",
+  "imageText": ["Sr-?-TCP,", "Sr-HAP", "Merits:", "suitable", "operational", "properties;", "excellent", "washout", "resistance;", "tI", "=", "4?8", "min,", "tF", "=", "10?15", "min;", "Compressive", "strength,", "46.6", "MPa.", "Demerits:", "the", "data", "about", "its", "in", "vivo", "ef?cacy", "is", "not", "available.", "Zhu", "et", "al.,", "2017", "Powder", "phases:", "Sr-?-TCP,", "TTCP", "Liquid", "phases:", "PA", "Sr-incorporated", "biphasic", "CPC", "Jayasree", "et", "al.,", "2017", "HAP,", "unreacted", "TTCP", "Merits:", "tI", "=", "2?5.5", "min,", "tF", "=", "5?10", "min;", "compressive", "strength,", "18.3?32.4", "MPa.", "Demerits:", "the", "data", "about", "its", "in", "vivo", "ef?cacy", "is", "not", "available.", "Sr", "and", "hydroxyl", "ion", "co-releasing", "radiopaque", "HAP", "cement", "Powder", "phases:", "Sr-TTCP", "Liquid", "phases:", "1", "M", "Na2HPO4", "and", "10", "wt.%", "citric", "acid", "D’Onofrio", "et", "al.,", "2016", "Sr-HAP", "Merits:", "increasing", "radiopacity.", "Demerits:", "lower", "compressive", "strength,", "<12.5", "MPa;", "longer", "?nal", "setting", "time.", "Novel", "Sr", "containing", "bioactive", "glass", "based", "CPC", "Powder", "phases:", "glass", "(SiO2-P2O5-CaO-SrO-Na2O),", "Ca(H2PO4)2", "Liquid", "phases:", "2.5%", "Na2HPO4", "solution", "Singh", "et", "al.,", "2016", "Powder", "phases:", "Sr-DCPD,", "TTCP", "Liquid", "phases:", "DI", "water", "or", "a", "1.25%", "Na2HPO4", "solution", "Sr-HAP,", "TTCP", "Merits:", "tI", "=", "4.0?6.9", "min,", "tF", "=", "6.3?12", "min", "(Na2HPO4", "solution).", "Demerits:", "tI", "=", "18.5?33.8", "min,", "tF", "=", "26.2?>60", "min", "(DI", "water);", "Lower", "compressive", "strength", "<10.94", "MPa;", "Decreased", "porosity.", "Sr", "releasing", "HAP", "forming", "cements", "No", "et", "al.,", "2019", "Merits:", "good", "injectability", "and", "handling", "properties.", "Demerits:", "tI", "=", "13.7", "min,", "tF", "=", "21.3", "min;", "lower", "compressive", "strength,", "?16", "MPa;", "?exural", "strength,", "?3", "MPa.", "Sr-doped", "hardystonite,", "willemite,", "silica", "Novel", "injectable", "Sr-hardystonite", "phosphate", "cement", "Powder", "phases:", "Sr-doped", "hardystonite,", "NaH2PO4,", "Na2B4O7·10H2O", "Liquid", "phases:", "deionized", "water", "Zhou", "et", "al.,", "2015", "HAP", "Merits:", "improved", "antiwashout", "property", "and", "injectability;", "higher", "compressive", "strength,", "21?48", "MPa.", "Demerits:", "tI", ">", "10", "min,", "tF", ">", "15", "min.", "Powder", "phases:", "partially", "crystalline", "calcium", "phosphate,", "DCPA,", "modi?ed", "starch", "Liquid", "phases:", "deionized", "water", "with", "type", "I", "collagen", "A", "novel", "injectable", "collagen-Sr-", "containing", "CPC", "Merits:", "improved", "injectability;", "enhanced", "compressive", "strength.", "Demerits:", "tI", "=", "8?16", "min,", "tF", "=", "14?25", "min.", "Taha", "et", "al.,", "2017", "DCPD,", "monetite,", "unreacted", "?-TCP", "Sr-doped", "injectable", "bone", "cement", "Powder", "phases:", "Sr-?-TCP,", "MCPM", "Liquid", "phases:", "water", "HAP,", "TTCP,", "SC", "Merits:", "promoting", "osteogenic", "activity.", "Demerits:", "the", "data", "about", "its", "physicochemical", "properties", "and", "in", "vivo", "biocompatibility", "is", "not", "enough.", "Huang", "et", "al.,", "2017", "Sr-doped", "CPC", "Powder", "phases:", "TTCP,", "DCPA,", "SC", "Liquid", "phases:", "ultrapure", "water", "Cheung", "et", "al.,", "2005", "Powder", "phases:", "Sr-HAP,", "fumed", "silica,", "benzoyl", "peroxide", "Liquid", "phases:", "a", "resin", "blend", "(Bisphenol", "A", "diglycidylether", "methacrylate,", "triethylene", "glycol", "dimethacrylate,", "poly(ethylene", "glycol)", "methacrylate,", "and", "N,N-dimethyl-p-toluidine)", "Sr-HAP,", "resin", "Merits:", "setting", "time,", "15?18", "min;", "compressive", "strength,", "40.9", "MPa;", "bending", "strength,", "31.3", "MPa;", "Bending", "modulus,", "1,408", "MPa.", "Demerits:", "complex", "liquid", "phase", "composite.", "A", "Sr-containing", "bioactive", "bone", "cement", "Merits:", "enhancing", "mechanical", "properties;", "Better", "radiographic", "contrast.", "Demerits:", "complex", "powder", "and", "liquid", "phases", "composite.", "Lode", "et", "al.,", "2018", "?-TCP,", "monetite,", "HAP,", "SC", "Powder", "phases:", "?-TCP,", "DCPA,", "SC,", "HAP,", "K2HPO4", "Liquid", "phases:", "liquid", "consisted", "of", "Miglyol", "812", "with", "14.7", "wt.%", "Cremophor", "ELP", "and", "4.9", "wt.%", "Amphisol", "A", "Sr-modi?ed", "premixed", "CPC", "Wu", "et", "al.,", "2019", "Powder", "phases:", "partially", "crystalline", "calcium", "phosphate,", "DCPA,", "strontium", "ranelate", "Liquid", "phases:", "deionized", "water", "HAP,", "DCPA", "Merits:", "good", "radiopacity", "and", "osteogenesis", "Demerits:", "the", "setting", "time", "is", "out", "of", "clinical", "requirement;", "lower", "compressive", "strength,", "<24", "MPa.", "CPC", "containing", "strontium", "ranelate", "Wang", "et", "al.,", "2007", "Injectable", "CPC", "Powder", "phases:", "ACP,", "DCPD,", "SC", "Liquid", "phases:", "deionized", "water", "HAP,", "SC", "Merits:", "increased", "injectability", "and", "compressive", "strength,", "39.6", "MPa.", "Demerits:", "the", "setting", "time", "is", "out", "of", "clinical", "requirement", "Shi", "et", "al.,", "2017", "HAP", "Merits:", "enhancing", "degradation", "and", "Sr", "ion", "release.", "Demerits:", "the", "data", "about", "its", "biocompatibility", "is", "not", "available.", "Powder", "phases:", "Sr-Ca8H2(PO4)6·5H2O,", "?-TCP", "Liquid", "phases:", "100", "mM", "citric", "acid", "solution", "Sr-doped", "?-TCP", "bone", "cement", "Name", "Composition", "Hydration", "products", "Major", "merits", "and", "demerits", "Literatures"],
+  "name": "1",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 43.68,
+    "x2": 551.04,
+    "y1": 75.36,
+    "y2": 634.56
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Table1-1.png"
+}, {
+  "caption": "FIGURE 9 | RGR of MC3T3-E1 cells cultured in different concentrations of extract for (A) 1 day and (B) 3 days.",
+  "captionBoundary": {
+    "x1": 51.207000732421875,
+    "x2": 384.8330383300781,
+    "y1": 238.60348510742188,
+    "y2": 242.77899169921875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "9",
+  "page": 11,
+  "regionBoundary": {
+    "x1": 46.559999999999995,
+    "x2": 548.16,
+    "y1": 65.28,
+    "y2": 246.72
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Figure9-1.png"
+}, {
+  "caption": "FIGURE 10 | Cell number of MC3T3-E1 cells proliferated on the surface of the samples for 1, 4, and 7 days.",
+  "captionBoundary": {
+    "x1": 309.89300537109375,
+    "x2": 544.1699829101562,
+    "y1": 690.1255493164062,
+    "y2": 703.7650146484375
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "10",
+  "page": 11,
+  "regionBoundary": {
+    "x1": 305.76,
+    "x2": 548.16,
+    "y1": 505.44,
+    "y2": 690.24
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Figure10-1.png"
+}, {
+  "caption": "TABLE 5 | EDS data on the surface of the ceramic-like particles in the 10Sr-CPC-c cement after being immersed in SBF at 37?C for 72 h.",
+  "captionBoundary": {
+    "x1": 44.97999954223633,
+    "x2": 254.7839813232422,
+    "y1": 64.0495376586914,
+    "y2": 77.68902587890625
+  },
+  "figType": "Table",
+  "imageText": ["Total", "100.00", "100.00", "SrL", "9.28", "2.61", "CaK", "30.83", "18.99", "PK", "18.75", "14.94", "OK", "41.14", "63.46", "Element", "Weight", "%", "Atomic", "%"],
+  "name": "5",
+  "page": 8,
+  "regionBoundary": {
+    "x1": 43.68,
+    "x2": 292.8,
+    "y1": 84.47999999999999,
+    "y2": 165.6
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Table5-1.png"
+}, {
+  "caption": "FIGURE 6 | The real-time XRD patterns of the 10Sr-CPC-c samples after immersed in SBF.",
+  "captionBoundary": {
+    "x1": 309.89300537109375,
+    "x2": 529.5320434570312,
+    "y1": 265.2845153808594,
+    "y2": 278.9250183105469
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "6",
+  "page": 8,
+  "regionBoundary": {
+    "x1": 305.76,
+    "x2": 548.16,
+    "y1": 65.28,
+    "y2": 265.44
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Figure6-1.png"
+}, {
+  "caption": "TABLE 3 | Compositions of various cements and pH values for the SBF after different-sample immersion.",
+  "captionBoundary": {
+    "x1": 303.6659851074219,
+    "x2": 534.071044921875,
+    "y1": 463.55450439453125,
+    "y2": 477.1940002441406
+  },
+  "figType": "Table",
+  "imageText": ["0Sr-CPC", "0%Sr-?-TCP", "TTCP", "0%", "7.430", "A", "B", "samples", "immersion", "(molar", "ratio:", "A:B", "=", "2:1)", "Sample", "name", "Cement", "powder", "Sr/(Sr+Ca)", "pH", "values", "for", "the", "SBF", "after", "different"],
+  "name": "3",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 302.88,
+    "x2": 551.04,
+    "y1": 483.35999999999996,
+    "y2": 541.92
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Table3-1.png"
+}, {
+  "caption": "TABLE 4 | Hydration parameters of various Sr-CPC cements and their effects on the setting time.",
+  "captionBoundary": {
+    "x1": 303.6659851074219,
+    "x2": 545.886962890625,
+    "y1": 595.8775024414062,
+    "y2": 609.5170288085938
+  },
+  "figType": "Table",
+  "imageText": ["10Sr-CPC", "16.7%Sr-?-TCP", "TTCP", "10%", "7.537", "5Sr-CPC", "8.3%Sr-?-TCP", "TTCP", "5%", "7.433"],
+  "name": "4",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 302.88,
+    "x2": 551.04,
+    "y1": 547.68,
+    "y2": 570.72
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427994_41108_fbioe-09-643557\\image\\upload_1748427994_41108_fbioe-09-643557-Table4-1.png"
+}]

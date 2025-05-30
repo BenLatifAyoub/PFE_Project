@@ -1,0 +1,101 @@
+[{
+  "caption": "FIG 4 SPR analysis of protein binding interactions. Sensorgrams show binding of each protein to either glycosylated or nonglycosylated basigin (coupled to the chip). Protein binding was assessed along 5-step 2-fold dilution curves starting at 2mM. (A) Glycosylated basigin binding to RH5; (B) glycosylated basigin binding to RBD; (C) glycosylated basigin binding to FL-NP; (D) nonglycosylated basigin binding to RH5; (E) nonglycosylated basigin binding to RBD; (F) nonglycosylated basigin binding to FL-NP.",
+  "captionBoundary": {
+    "x1": 42.0093994140625,
+    "x2": 402.0045166015625,
+    "y1": 441.9290466308594,
+    "y2": 482.2297668457031
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "4",
+  "page": 5,
+  "regionBoundary": {
+    "x1": 41.76,
+    "x2": 545.28,
+    "y1": 37.92,
+    "y2": 430.08
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746192479_33636_msphere.00647-21\\image\\upload_1746192479_33636_msphere.00647-21-Figure4-1.png"
+}, {
+  "caption": "FIG 5 (A) Virus neutralization assay assessing clinical SARS-CoV-2 isolate SARS-CoV-2/human/Eng/220 infection of Vero E6 cells in the presence of purified IgG from human basigin-immunized rabbits (black). All values are relative to a virus-only control (dotted line at y= 100). Each point indicates the mean, and error bars show standard deviations of triplicate measurement. The negative control was purified IgG from rabbits vaccinated with S antigen (red). The positive control was the published inhibitory anti-spike MAb 1B10 (blue) (B) (Left) P. falciparum assay of growth inhibition activity (GIA) showing the functionality of the purified IgG from basigin-immunized rabbits, where each point is the mean of a triplicate. (Right) Purified IgG prior to immunization with basigin, tested for GIA at 10mg/ml (n= 2). The bar indicates the mean, and the error bar shows the standard deviation.",
+  "captionBoundary": {
+    "x1": 42.00787353515625,
+    "x2": 370.6406555175781,
+    "y1": 416.47393798828125,
+    "y2": 492.7741394042969
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "5",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 49.92,
+    "x2": 545.28,
+    "y1": 37.92,
+    "y2": 405.12
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746192479_33636_msphere.00647-21\\image\\upload_1746192479_33636_msphere.00647-21-Figure5-1.png"
+}, {
+  "caption": "FIG 1 (A) Size exclusion chromatograms postpurification of FL-NP, FL-S, CR3022, RBD, and ACE2. All proteins were run individually with chromatograms overlaid. Asterisks indicate the fractions run on SDS-PAGE. (B) Nonreducing (NR) and reducing (R) Coomassie blue-stained SDS-PAGE protein gels of 1mg of protein from the asterisk-indicated fractions. (C) Freeze-thaw stability of FL-S and RBD. Reducing and nonreducing SDS-PAGE protein gel of 1mg FL-S (red outline) and RBD (orange outline) after 1, 2, and 3 freeze-thaw cycles. Below each gel a dot blot is shown, using the CR3022 human MAb on 1mg FL-S and RBD after 1, 2, and 3 freezethaw cycles.",
+  "captionBoundary": {
+    "x1": 42.009368896484375,
+    "x2": 402.0076599121094,
+    "y1": 638.4832153320312,
+    "y2": 696.812744140625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 41.76,
+    "x2": 545.28,
+    "y1": 37.92,
+    "y2": 627.36
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746192479_33636_msphere.00647-21\\image\\upload_1746192479_33636_msphere.00647-21-Figure1-1.png"
+}, {
+  "caption": "FIG 2 Size exclusion chromatograms (left) and accompanying SDS-PAGE gels (right) assessing complex formation between RH5/RBD/FL-S/RBD and ACE2/ basigin. Symbols on chromatograms indicate which gels correspond to the peaks. Full-length RH5 (;60 kDa) undergoes cleavage at room temperature to yield an ;43-kDa band. (A) RBD-ACE2; (B) FL-S-ACE2; (C) RH5-ACE2; (D) RBD-basigin; (E) FL-S–basigin; (F) RH5-basigin; (G) FL-NP–basigin.",
+  "captionBoundary": {
+    "x1": 42.0093994140625,
+    "x2": 543.9888916015625,
+    "y1": 566.0297241210938,
+    "y2": 588.3021850585938
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "2",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 41.76,
+    "x2": 545.28,
+    "y1": 37.92,
+    "y2": 555.36
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746192479_33636_msphere.00647-21\\image\\upload_1746192479_33636_msphere.00647-21-Figure2-1.png"
+}, {
+  "caption": "FIG 3 Steady-state affinity of CR3022 MAb binding to RBD as assessed using SPR. (A) Sensorgram of an 8-step dilution curve beginning at 1mM. (B) Calculation of steady-state affinity.",
+  "captionBoundary": {
+    "x1": 42.0093994140625,
+    "x2": 370.61370849609375,
+    "y1": 336.5936584472656,
+    "y2": 349.85223388671875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "3",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 85.92,
+    "x2": 545.28,
+    "y1": 37.92,
+    "y2": 325.44
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746192479_33636_msphere.00647-21\\image\\upload_1746192479_33636_msphere.00647-21-Figure3-1.png"
+}]

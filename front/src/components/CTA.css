@@ -1,0 +1,69 @@
+/* Base styles for the CTA button */
+.cta-btn {
+    margin-top: 100px;
+    display: inline-block;
+    padding: 15px 40px;
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #ffffff;
+    background: linear-gradient(90deg, #F2AEBB, #F2AEBB); /* Eye-catching gradient */
+    border-radius: 50px; /* Rounded edges for a softer look */
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    outline: none;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  /* Hover effect with a glow and slight movement */
+  .cta-btn:hover {
+    box-shadow: 0 10px 25px rgba(222, 77, 134, 0.5); /* Pinkish glow */
+    transform: translateY(-3px);
+  }
+  
+  /* Active state with a pressing effect */
+  .cta-btn:active {
+    transform: translateY(2px);
+    box-shadow: none;
+  }
+  
+  /* Ripple effect for dynamic feedback */
+  .cta-btn::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300%;
+    height: 300%;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: width 0.5s ease, height 0.5s ease, transform 0.5s ease;
+  }
+  
+  .cta-btn:active::before {
+    width: 0;
+    height: 0;
+    transform: translate(-50%, -50%) scale(1);
+    transition: 0s;
+  }
+  
+  /* Different button sizes */
+  .cta-btn.small {
+    padding: 10px 30px;
+    font-size: 1.2rem;
+  }
+  
+  .cta-btn.medium {
+    padding: 15px 40px;
+    font-size: 1.4rem;
+  }
+  
+  .cta-btn.large {
+    padding: 20px 50px;
+    font-size: 1.6rem;
+  }
+  

@@ -1,0 +1,121 @@
+[{
+  "caption": "Table 1 The statistical description of the sample data.",
+  "captionBoundary": {
+    "x1": 76.61700439453125,
+    "x2": 220.9959716796875,
+    "y1": 55.6744499206543,
+    "y2": 69.0599365234375
+  },
+  "figType": "Table",
+  "imageText": ["Operational", "revenue", "(million", "USDs)", "5420,78", "26888,79", "25,35", "255112,00", "CO2", "emissions", "(Metric", "tons)", "769,57", "232,35", "457,65", "12764,35", "Total", "assets", "(million", "USDs)", "4670,16", "23354,65", "20,25", "220102,00", "Number", "of", "employees", "(persons)", "2460,14", "9903,36", "20,00", "67000,00", "Wood", "Energy", "Production", "(Trillion", "Btu)", "2182,42", "143,49", "1935,01", "2401,08", "Biofuels", "Production", "(Trillion", "Btu)", "1414,43", "823,92", "233,15", "2396,57", "Total", "Biomass", "Energy", "Production", "(Trillion", "Btu)", "4047,50", "965,49", "2624,16", "5238,48", "Hydroelectric", "Power", "Production", "(Trillion", "Btu)", "2621,80", "198,63", "2241,86", "3102,85", "Geothermal", "Energy", "Production", "(Trillion", "Btu)", "195,10", "18,22", "164,36", "214,49", "Solar", "Energy", "Production", "(Trillion", "Btu)", "264,80", "315,10", "57,89", "1042,86", "Wind", "Energy", "Production", "(Trillion", "Btu)", "1036,30", "912,89", "57,06", "2731,85", "Total", "Renewable", "Energy", "Production", "(Trillion", "Btu)", "8165,50", "2111,83", "5161,77", "11636,98", "Variables", "Mean", "Standard", "deviation", "Minimum", "Maximum"],
+  "name": "1",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 75.84,
+    "x2": 519.36,
+    "y1": 71.52,
+    "y2": 191.04
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1747912264_39252_EnergyReportsJarboui_S.\\image\\upload_1747912264_39252_EnergyReportsJarboui_S.-Table1-1.png"
+}, {
+  "caption": "Table 2 Results of the true fixed effect (TFE) model.",
+  "captionBoundary": {
+    "x1": 102.62100219726562,
+    "x2": 241.46966552734375,
+    "y1": 206.1325225830078,
+    "y2": 219.51800537109375
+  },
+  "figType": "Table",
+  "imageText": ["*,", "**,", "and", "***", "significant", "at", "the", "10%,", "5%", "and", "1%", "levels", "respectively.", "Log", "likelihood", "46.5111", "54.271", "t", "?t", "0.007", "0.009", "(0.931)", "(0.597)", "ln", "kit", "?k", "1.190", "1.207", "(5.659)***", "(4.079)***", "ln", "lit", "?l", "?0.033", "?0.471", "(2.165)**", "(2.122)**", "ln", "kit", "×", "ln", "lit", "?kl", "0.913", "1.301", "(4.033)***", "(2.222)**", "ln", "kit", "×", "ln", "kit", "?k2", "?0.078", "0.185", "(3.655)***", "(2.655)***", "ln", "lit", "×", "ln", "lit", "?l2", "?0.016", "?0.028", "(0.738)", "(2.060)**", "*", "?u", "0.878", "0.678", "(5.071)***", "(4.765)***", "*", "?v", "0.122", "0.232", "(4.214)***", "(3.412)***", "*", "?", "1.067", "1.038", "(4.285)***", "(5.285)***", "Operational", "revenue", "Undesirable", "output", "CO2", "emissions", "Variable", "Parameters", "Desirable", "output"],
+  "name": "2",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 101.75999999999999,
+    "x2": 493.44,
+    "y1": 221.28,
+    "y2": 422.88
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1747912264_39252_EnergyReportsJarboui_S.\\image\\upload_1747912264_39252_EnergyReportsJarboui_S.-Table2-1.png"
+}, {
+  "caption": "Table 3 Results of the TFE model introducing the inefficiency effect.",
+  "captionBoundary": {
+    "x1": 76.61700439453125,
+    "x2": 266.3793029785156,
+    "y1": 55.6744499206543,
+    "y2": 69.0599365234375
+  },
+  "figType": "Table",
+  "imageText": ["*,", "**,", "and", "***", "significant", "at", "the", "10%,", "5%", "and", "1%", "levels", "respectively.", "Log", "likelihood", "54.944", "58.967", "68.307", "65.611", "t", "?t", "0.005", "0.003", "0.007", "0.006", "(1.027)", "(1.294)", "(0.891)", "(0.891)", "ln", "kit", "?k", "2.190", "2.207", "2.165", "2.255", "(5.237)***", "(4.079)***", "(5.221)***", "(4.114)***", "ln", "lit", "?l", "?1.345", "?1.025", "?0.072", "?0.068", "(2.935)***", "(2.872)***", "(2.084)**", "(2.012)**", "ln", "kit", "×", "ln", "lit", "?kl", "0.311", "0.330", "0.012", "0.0098", "(2.931)***", "(2.945)***", "(2.728)***", "(2.428)***", "ln", "kit", "×", "ln", "kit", "?k2", "?0.016", "?0.028", "0.323", "0.451", "(2.738)***", "(2.461)***", "(3.112)***", "(3.385)***", "ln", "lit", "×", "ln", "lit", "?l2", "?0.003", "?0.0085", "?0.0069", "?0.0069", "(1.824)*", "(2.097)**", "(0.430)", "(0.430)", "z1it", "?1", "–", "0.032", "–", "0.048", "–", "(1.771)*", "–", "(1.071)", "z2it", "?2", "–", "0.922", "–", "0.977", "–", "(2.914)***", "–", "(3.211)***", "z3it", "?3", "1.765", "–", "?1.217", "–", "(3.285)***", "–", "(?3.655)***", "–", "z4it", "?4", "–", "0.032", "–", "?0.068", "–", "(3.332)***", "–", "(?3.611)***", "z5it", "?5", "–", "?0.028", "–", "?0.032", "–", "(?1.055)", "–", "(?1.755)*", "z6it", "?6", "–", "0.198", "–", "?0.324", "–", "(2.023)**", "–", "(?2.075)**", "z7it", "?7", "–", "1.242", "–", "?3.683", "–", "(3.257)***", "–", "(?3.544)***", "z8it", "?8", "2.926", "–", "?2.831", "–", "(3.171)***", "–", "(?2.874)***", "–", "*", "?u", "0.121", "0.118", "0.133", "0.128", "(4.616)***", "(3.432)***", "(4.087)***", "(3.211)***", "*", "?v", "0.132", "0.133", "0.146", "0.126", "(4.516)***", "(3.622)***", "(4.277)***", "(3.455)***", "*", "?", "1.080", "1.054", "1.070", "1.013", "(3.586)***", "(3.092)***", "(3.088)***", "(3.322)***", "Model", "1", "Model", "2", "Model", "3", "Model", "4", "Operational", "revenue", "Undesirable", "output", "CO2", "emissions", "Variable", "Parameters", "Desirable", "output"],
+  "name": "3",
+  "page": 7,
+  "regionBoundary": {
+    "x1": 75.84,
+    "x2": 519.36,
+    "y1": 71.52,
+    "y2": 421.44
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1747912264_39252_EnergyReportsJarboui_S.\\image\\upload_1747912264_39252_EnergyReportsJarboui_S.-Table3-1.png"
+}, {
+  "caption": "Fig. 1. Average annual operational and environmental efficiency of oil and gas companies.",
+  "captionBoundary": {
+    "x1": 153.9980010986328,
+    "x2": 441.2809143066406,
+    "y1": 265.53851318359375,
+    "y2": 270.35601806640625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 9,
+  "regionBoundary": {
+    "x1": 140.64,
+    "x2": 454.08,
+    "y1": 54.239999999999995,
+    "y2": 253.92
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1747912264_39252_EnergyReportsJarboui_S.\\image\\upload_1747912264_39252_EnergyReportsJarboui_S.-Figure1-1.png"
+}, {
+  "caption": "Table 5 Average annual operational and environmental efficiencies of oil and gas companies.",
+  "captionBoundary": {
+    "x1": 46.134002685546875,
+    "x2": 280.1521911621094,
+    "y1": 286.9175109863281,
+    "y2": 308.8710021972656
+  },
+  "figType": "Table",
+  "imageText": ["Mean", "0,7622", "0,7958", "Standard", "deviation", "0,0758", "0,0832", "Min", "0,5742", "0,5679", "Max", "0,9120", "0,9211", "2000", "0,7859", "0,8423", "2001", "0,7667", "0,8268", "2002", "0,7326", "0,7527", "2003", "0,7771", "0,8372", "2004", "0,781", "0,8221", "2005", "0,844", "0,8841", "2006", "0,8246", "0,8647", "2007", "0,7217", "0,7488", "2008", "0,6216", "0,6587", "2009", "0,5742", "0,5679", "2010", "0,7124", "0,7455", "2011", "0,7816", "0,8217", "2012", "0,7746", "0,8147", "2013", "0,8531", "0,8972", "2014", "0,912", "0,9311", "2015", "0,7437", "0,7638", "2016", "0,7536", "0,7635", "2017", "0,7563", "0,7864", "2018", "0,7664", "0,7914", "Year", "Operational", "level", "CO2", "emission", "level"],
+  "name": "5",
+  "page": 9,
+  "regionBoundary": {
+    "x1": 45.6,
+    "x2": 281.28,
+    "y1": 311.52,
+    "y2": 528.0
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1747912264_39252_EnergyReportsJarboui_S.\\image\\upload_1747912264_39252_EnergyReportsJarboui_S.-Table5-1.png"
+}, {
+  "caption": "Table 4 Average operational and environmental efficiencies level of oil and gas companies.",
+  "captionBoundary": {
+    "x1": 102.62100219726562,
+    "x2": 364.7946472167969,
+    "y1": 55.6744499206543,
+    "y2": 69.0599365234375
+  },
+  "figType": "Table",
+  "imageText": ["Average", "efficiency", "level", "0,7622", "0,7958", "1", "ABRAXAS", "PETROLEUM", "CORPORATION", "(AXAS)", "0,7995", "0,8486", "2", "ADAMS", "RESOURCES", "&", "ENERGY,", "INC.", "(AE)", "0,7643", "0,8134", "3", "ANADARKO", "PETROLEUM", "CORPORATION", "(APC)", "0,9166", "0,9257", "4", "BLUE", "DOLPHIN", "ENERGY", "COMPANY", "(BDCO)", "0,6074", "0,6315", "5", "CHESAPEAKE", "ENERGY", "CORPORATION", "(CHK)", "0,7193", "0,8284", "6", "CHEVRON", "CORPORATION", "(CVX)", "0,9313", "0,9424", "7", "CLAYTON", "WILLIAMS", "ENERGY,", "INC.", "(CWEI)", "0,8102", "0,8493", "8", "CRIMSON", "EXPLORATION", "INC.", "(CXPO)", "0,7432", "0,7823", "9", "DALECO", "RESOURCES", "CORPORATION", "(DLOV)", "0,3841", "0,3621", "10", "DOUBLE", "EAGLE", "PETROLEUM", "CO.", "(DBLE)", "0,7462", "0,7853", "11", "EARTHSTONE", "ENERGY,", "INC.", "(ESTE)", "0,8365", "0,8856", "12", "ENERGEN", "CORPORATION", "(EGN)", "0,8983", "0,9074", "13", "EPL", "OIL", "&", "GAS,", "INC.", "(EPL)", "0,7946", "0,8437", "14", "FOREST", "OIL", "CORPORATION", "(FST)", "0,8285", "0,8776", "15", "FX", "ENERGY,", "INC.", "(FXEN)", "0,4437", "0,3428", "16", "GASCO", "ENERGY,", "INC.", "(GSXN)", "0,4921", "0,4912", "17", "GATEWAY", "ENERGY", "CORPORATION", "(GNRG)", "0,7207", "0,7618", "18", "GLEN", "ROSE", "PETROLEUM", "CORPORATION", "(GLRP)", "0,3839", "0,3631", "19", "GOODRICH", "PETROLEUM", "CORPORATION", "(GDP)", "0,7177", "0,7668", "20", "GULFPORT", "ENERGY", "CORPORATION", "(GPOR)", "0,8116", "0,8607", "21", "MARATHON", "OIL", "CORPORATION", "(MRO)", "0,7669", "0,8269", "22", "PANHANDLE", "OIL", "AND", "GAS", "INC.", "(PHX)", "0,8445", "0,8936", "23", "PDC", "ENERGY,", "INC.", "(PDCE)", "0,9628", "0,9519", "24", "PETROQUEST", "ENERGY,", "INC.", "(PQ)", "0,7487", "0,7978", "25", "PYRAMID", "OIL", "COMPANY", "(PDO)", "0,7761", "0,8252", "26", "ROYALE", "ENERGY,", "INC.", "(ROYL)", "0,7403", "0,7894", "27", "SM", "ENERGY", "COMPANY", "(SM)", "0,7141", "0,7932", "28", "SOUTHWESTERN", "ENERGY", "COMPANY", "(SWN)", "0,8096", "0,8587", "29", "SPINDLETOP", "OIL", "&", "GAS", "CO.", "(SPND)", "0,7956", "0,8447", "30", "STONE", "ENERGY", "CORPORATION", "(SGY)", "0,8465", "0,8956", "31", "SWIFT", "ENERGY", "COMPANY", "(SFY)", "0,8635", "0,9026", "32", "TEXAS", "VANGUARD", "OIL", "COMPANY", "(TVOC)", "0,8255", "0,8546", "33", "THE", "RESERVE", "PETROLEUM", "COMPANY", "(RSRV)", "0,985", "0,9841", "34", "VAALCO", "ENERGY,", "INC.", "(EGY)", "0,7565", "0,8056", "35", "ALTEX", "INDUSTRIES,", "INC.", "(ALTX)", "0,4835", "0,4661", "36", "APACHE", "CORPORATION", "(APA)", "0,8662", "0,8853", "37", "CONOCOPHILLIPS", "(COP)", "0,7864", "0,8355", "38", "DEVON", "ENERGY", "CORPORATION", "(DVN)", "0,8488", "0,8879", "39", "EOG", "RESOURCES,", "INC.", "(EOG)", "0,8466", "0,8957", "40", "EXXON", "MOBIL", "CORPORATION", "(XOM)", "0,6675", "0,7466", "41", "MURPHY", "OIL", "CORPORATION", "(MUR)", "0,7649", "0,8011", "42", "NEWFIELD", "EXPLORATION", "COMPANY", "(NFX)", "0,8456", "0,8847", "43", "NOBLE", "ENERGY,", "INC.", "(NBL)", "0,8326", "0,8717", "44", "OCCIDENTAL", "PETROLEUM", "CORPORATION", "(OXY)", "0,8453", "0,8824", "45", "ZAZA", "ENERGY", "CORPORATION", "(ZAZA)", "0,7253", "0,7614", "Company", "Operational", "efficiency", "CO2", "emission", "efficiency"],
+  "name": "4",
+  "page": 8,
+  "regionBoundary": {
+    "x1": 101.75999999999999,
+    "x2": 493.44,
+    "y1": 71.52,
+    "y2": 484.79999999999995
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1747912264_39252_EnergyReportsJarboui_S.\\image\\upload_1747912264_39252_EnergyReportsJarboui_S.-Table4-1.png"
+}]

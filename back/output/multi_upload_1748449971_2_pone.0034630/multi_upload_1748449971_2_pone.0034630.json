@@ -1,0 +1,161 @@
+[{
+  "caption": "Figure 9. Differential effect of flavonolignans on human PCA DU145 cells and endothelial HUVEC in cell culture assays. (A) Effect of flavonolignans (at 90 mM dose) on the three dimensional growth of DU145 cells was studied as detailed in ‘Materials and Methods’. Representative spheroids photomicrographs are shown at 100x and 400x. (B) In Transwell invasion assay, either DU145 cells (plated in the lower chamber) or HUVEC (plated in the upper chamber) were treated with individual diastereoisomers (at 30 mM dose), and HUVEC invasiveness was measured. (C) DU145 cells were treated with individual diastereoisomers (at 30 mM dose) and conditioned media was collected. HUVEC were plated on matrigel along with 0.5% FBS or conditioned media from different treatment groups; and tube formation was analyzed. Representative photomicrographs of tubular network are shown at 100x. Abbreviations: Sil A: Silybin A; Sil B: Silybin B; Iso A: Isosilybin A, Iso B: Isosilybin B; CM: Conditioned media; *, p # 0.001; #, p # 0.01. doi:10.1371/journal.pone.0034630.g009",
+  "captionBoundary": {
+    "x1": 58.052520751953125,
+    "x2": 554.2561645507812,
+    "y1": 499.888671875,
+    "y2": 575.6039428710938
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "9",
+  "page": 10,
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "x2": 551.04,
+    "y1": 59.519999999999996,
+    "y2": 487.2
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748449971_2_pone.0034630\\image\\multi_upload_1748449971_2_pone.0034630-Figure9-1.png"
+}, {
+  "caption": "Figure 1. Flavonolignans inhibit PCA DU145 xenograft growth through targeting proliferation and apoptosis. DU145 xenografts were initiated and mice were administered either vehicle (CMC) or 50 and 100 mg/kg body weight doses of each diastereoisomer. (A) Tumor volume was measured and plotted as a function of time (days). Each value in the curves is mean 6 SEM of 10–12 mice. (B–D) Xenograft tissues were analyzed for PCNA, TUNEL and cleaved caspase-3 (CC3) by IHC. The data shown in the bar diagrams is the mean6 SEM of 4–5 samples. Abbreviations: Sil A: Silybin A; Sil B: Silybin B; Iso A: Isosilybin A, Iso B: Isosilybin B; *, p # 0.001; #, p # 0.01; $, p # 0.05. doi:10.1371/journal.pone.0034630.g001",
+  "captionBoundary": {
+    "x1": 58.053497314453125,
+    "x2": 554.271728515625,
+    "y1": 453.0602722167969,
+    "y2": 501.84661865234375
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 1,
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "x2": 547.1999999999999,
+    "y1": 59.519999999999996,
+    "y2": 440.15999999999997
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748449971_2_pone.0034630\\image\\multi_upload_1748449971_2_pone.0034630-Figure1-1.png"
+}, {
+  "caption": "Figure 6. Flavonolignans inhibit VEGF-induced proliferation and invasion in HUVEC. (A) HUVEC were induced with VEGF and treated with each flavonolignan in 0.5% serum media, and total cell number was analyzed after 24 h. (B) HUVEC were plated in the upper chamber with DMSO or individual diastereoisomer, while VEGF was added in the lower chamber and HUVEC invasion was studied. Abbreviations: Sil A: Silybin A; Sil B: Silybin B; Iso A: Isosilybin A, Iso B: Isosilybin B; *, p # 0.001; #, p # 0.01; $, p # 0.05. doi:10.1371/journal.pone.0034630.g006",
+  "captionBoundary": {
+    "x1": 58.05267333984375,
+    "x2": 554.254150390625,
+    "y1": 690.7735595703125,
+    "y2": 730.545654296875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "6",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "x2": 377.28,
+    "y1": 279.84,
+    "y2": 677.28
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748449971_2_pone.0034630\\image\\multi_upload_1748449971_2_pone.0034630-Figure6-1.png"
+}, {
+  "caption": "Figure 8. Effect of flavonolignans on VEGF-induced signaling cascade in HUVEC. HUVEC were serum starved for 22 h, treated with diastereoisomers for 2 h and stimulated with VEGF (10 ng/ml) for 10 minutes. Total cell lysates were prepared and analyzed for mentioned signaling molecules. The densitometry values presented below the bands are ‘fold change’ compared to control after loading control (b-actin) normalization. doi:10.1371/journal.pone.0034630.g008",
+  "captionBoundary": {
+    "x1": 58.05270004272461,
+    "x2": 297.2703552246094,
+    "y1": 663.7310180664062,
+    "y2": 730.432861328125
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "8",
+  "page": 9,
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "x2": 294.24,
+    "y1": 66.72,
+    "y2": 649.92
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748449971_2_pone.0034630\\image\\multi_upload_1748449971_2_pone.0034630-Figure8-1.png"
+}, {
+  "caption": "Figure 2. Flavonolignans inhibit angiogenesis in vivo. DU145 xenograft tissues were analyzed for CD31, nestin, VEGF and VEGFR2 by IHC. Quantitative analyses were performed using Zeiss Axioscope 2 microscope (Carl Zeiss, Germany) and photographs were originally captured (at 400x) with a Carl Zeiss AxioCam MrC5 camera with Axiovision Rel 4.5 software. The data shown in the bar diagrams is the mean 6 SEM of 4–5 samples. Abbreviations: Sil A: Silybin A; Sil B: Silybin B; Iso A: Isosilybin A, Iso B: Isosilybin B; *, p # 0.001. doi:10.1371/journal.pone.0034630.g002",
+  "captionBoundary": {
+    "x1": 58.0531005859375,
+    "x2": 554.2667236328125,
+    "y1": 419.6681823730469,
+    "y2": 459.496826171875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "2",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "x2": 550.0799999999999,
+    "y1": 59.519999999999996,
+    "y2": 406.08
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748449971_2_pone.0034630\\image\\multi_upload_1748449971_2_pone.0034630-Figure2-1.png"
+}, {
+  "caption": "Figure 3. Flavonolignans decrease VEGFR1, HIF-1a, phosphorylated and total Akt levels in DU145 xenografts. DU145 xenograft tissues were analyzed for VEGFR1, HIF-1a, phosphorylated Aktser473 and total Akt levels by IHC. Quantitative analyses were performed using Zeiss Axioscope 2 microscope (Carl Zeiss, Germany) and photographs were originally captured (at 400x) with a Carl Zeiss AxioCam MrC5 camera with Axiovision Rel 4.5 software. The data shown in the bar diagrams is the mean 6 SEM of 4–5 samples. Abbreviations: Sil A: Silybin A; Sil B: Silybin B; Iso A: Isosilybin A, Iso B: Isosilybin B; *, p # 0.001. doi:10.1371/journal.pone.0034630.g003",
+  "captionBoundary": {
+    "x1": 58.0531005859375,
+    "x2": 554.2871704101562,
+    "y1": 414.2256774902344,
+    "y2": 463.0118103027344
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "3",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "x2": 554.4,
+    "y1": 59.519999999999996,
+    "y2": 401.28
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748449971_2_pone.0034630\\image\\multi_upload_1748449971_2_pone.0034630-Figure3-1.png"
+}, {
+  "caption": "Figure 10. Diastereoisomers exhibit anti-angiogenic effects through targeting signaling molecules in both prostate cancer cells and endothelial cells. Silybin A, silybin B, isosilybin A and isosilybin B target angiogenesis in prostate tumors through targeting signaling molecules in PCA cells as well as in endothelial cells, the important component of PCA microenvironment. doi:10.1371/journal.pone.0034630.g010",
+  "captionBoundary": {
+    "x1": 58.053497314453125,
+    "x2": 297.2535705566406,
+    "y1": 288.70758056640625,
+    "y2": 346.4516296386719
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "10",
+  "page": 11,
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "x2": 299.03999999999996,
+    "y1": 59.519999999999996,
+    "y2": 275.03999999999996
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748449971_2_pone.0034630\\image\\multi_upload_1748449971_2_pone.0034630-Figure10-1.png"
+}, {
+  "caption": "Figure 4. Feeding of pure flavonolignans did not affect angiogenesis and normal histology in non-target organs. (A– B) Lungs, liver and kidneys from each mouse were collected and analyzed for CD31 immunoreactivity as well as for histopathological analyses. Quantitative analyses were performed using Zeiss Axioscope 2 microscope (Carl Zeiss, Germany) and photographs were originally",
+  "captionBoundary": {
+    "x1": 58.052703857421875,
+    "x2": 297.255859375,
+    "y1": 673.5956420898438,
+    "y2": 722.382080078125
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "4",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "x2": 298.08,
+    "y1": 59.519999999999996,
+    "y2": 660.0
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748449971_2_pone.0034630\\image\\multi_upload_1748449971_2_pone.0034630-Figure4-1.png"
+}]

@@ -1,0 +1,81 @@
+[{
+  "caption": "Figure 2 TMZ treatment in combination with intratumoral G47?-IL12 in C57BL/6 mice bearing orthotopic mouse 005 GSC- derived brain tumors. (A) Kaplan- Meier survival curve. C57BL/6 mice, implanted with mouse 005 GSCs on day 0, were treated with TMZ (25 mg/kg) or vehicle intraperitoneally from days 10 to 14, and G47?-mIL12 (5×105 pfu) or PBS injected intratumorally on day 12 (n=7 for mock and TMZ, and n=8 for G47?-IL12 and combination). Schema illustrated below. (B) Bodyweight of tumor- bearing mice (from A) after treatment. Mean±SEM, no significant differences between treated and mock (one- way ANOVA, Tukey's test post- test). (C) Kaplan- Meier survival curve for low- dose TMZ (7.5 mg/ kg); same experimental schedule as in (A). n=7 for mock and single treatments, n=8 for combination. Schema illustrated below. The long- term surviving mouse from the combination group was sacrificed on day 223, and tumor was not present. The median survival of mock (38 days) is significantly different from G47?-IL12 (median survival=49 days, p=0.003) or combination (median survival=54.5 days, p=0.002); TMZ (median survival=40 days) is significantly different from combination (p=0.0085). No other significant differences were observed. ANOVA, analysis of variance; GBM, glioblastoma; GSCs, GBM stem- like cells; TMZ, temozolomide.",
+  "captionBoundary": {
+    "x1": 40.499996185302734,
+    "x2": 287.6135559082031,
+    "y1": 236.34756469726562,
+    "y2": 479.3158874511719
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "2",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 39.839999999999996,
+    "x2": 289.44,
+    "y1": 47.519999999999996,
+    "y2": 230.88
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746291865_33168_jitc-2019-000345\\image\\upload_1746291865_33168_jitc-2019-000345-Figure2-1.png"
+}, {
+  "caption": "Figure 3 Immunohistochemical analysis of tumor- infiltrating immune cells. C57BL/6 mice implanted with 005 GSCs on day 0, and treated with TMZ (7.5 or 25 mg/kg) or vehicle solution intraperitoneally from days 19 to 23. Three days after the last TMZ treatment (day 26), mice were sacrificed and sections subjected to immunohistochemical staining for CD4, CD8, and CD68. n=4 for mock, n=3 for TMZ, 7.5 mg/kg group, and n=2 for TMZ 25 mg/kg group. (A) Representative images with positive cells stained brown; scale bar=200 µm. (B) The number of positive cells were counted. Mean±SEM of all fields. *p<0.05, **p<0.01, ***p<0.001 (unpaired two- tailed Student’s t- test). GBM, glioblastoma; GSCs, GBM stem- like cells; TMZ, temozolomide.",
+  "captionBoundary": {
+    "x1": 306.88800048828125,
+    "x2": 552.990478515625,
+    "y1": 604.3416748046875,
+    "y2": 739.3102416992188
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "3",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 305.76,
+    "x2": 555.36,
+    "y1": 277.44,
+    "y2": 599.04
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746291865_33168_jitc-2019-000345\\image\\upload_1746291865_33168_jitc-2019-000345-Figure3-1.png"
+}, {
+  "caption": "Figure 1 Cytotoxic effects of TMZ and/or G47?-IL12 in vitro. Dose–response curves for TMZ (A) and G47?-IL12 (B) 4 days after treatment, as measured by MTS assay. (C) 005 GSCs were treated with ~IC20 dose of TMZ (40 µM) and/ or ~IC10 dose of G47?-mIL12 (MOI 0.1) for 4 days, and cell viability assessed by MTS assay. Each graph represents an average of three experiments performed in triplicate. Data presented as mean±SEM. ****p<0.0001 between indicated groups (unpaired two- tailed Student’s t- test). M, mock; V, G47?-mIL12 virus; T, TMZ; and T+V, TMZ+G47?-mIL12. (D, E) Effects of MSH6 knockdown on 005 GSCs sensitivity to G47?-IL12. (D) 005 GSCs were lentivirally transduced with MSH6 (five independent sequences) or non- targeting (control) shRNAs. MSH6 protein levels were detected by western blot. Beta- actin was used as a loading control. (E) Dose–response curves for G47?-IL12 in MSH6 (005- MSH6 shRNA 1 and 005- MSH6 shRNA 3) or control (005- control shRNA cells) knockdown cells at 4 days post virus treatment, as measured by MTS assay. GBM, glioblastoma; GSCs, GBM stem- like cells; MOI, multiplicity of infection; shRNA, short- hairpin RNA; TMZ, temozolomide.",
+  "captionBoundary": {
+    "x1": 40.499996185302734,
+    "x2": 288.3981018066406,
+    "y1": 211.85501098632812,
+    "y2": 433.22320556640625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 39.839999999999996,
+    "x2": 289.44,
+    "y1": 47.519999999999996,
+    "y2": 205.92
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746291865_33168_jitc-2019-000345\\image\\upload_1746291865_33168_jitc-2019-000345-Figure1-1.png"
+}, {
+  "caption": "Figure 4 FACS analysis of splenocytes following TMZ treatment. The same experimental mice as in figure 3. On day 26, when mice were sacrificed, spleens were harvested, total number of splenocytes/spleen counted and subjected to 10- color flow cytometry staining. (A) Average number of splenocytes (mean±SEM) from all mice (n=3 for TMZ group and n=4 for mock). (B–J) Splenocytes stained with fluorochrome- conjugated anti- mouse antibodies/dye and multicolor fluorescence- activated cell sorting (FACS) performed. Bar graphs of the percentages of live sorted positive cells presented with symbols indicating individual mice. Mean±SEM *p<0.05, ***p<0.001 (unpaired two- tailed Student’s t- test). TMZ, temozolomide",
+  "captionBoundary": {
+    "x1": 40.49998474121094,
+    "x2": 281.85028076171875,
+    "y1": 224.76290893554688,
+    "y2": 359.73126220703125
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "4",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 39.839999999999996,
+    "x2": 289.44,
+    "y1": 47.519999999999996,
+    "y2": 218.88
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746291865_33168_jitc-2019-000345\\image\\upload_1746291865_33168_jitc-2019-000345-Figure4-1.png"
+}]

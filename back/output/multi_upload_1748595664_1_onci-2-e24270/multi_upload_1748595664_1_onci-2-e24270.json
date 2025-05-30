@@ -1,0 +1,101 @@
+[{
+  "caption": "Figure 4. humoral responses against aKap4 in ovarian carcinoma patients. (A) Figure humoral responses against aKap4 in ovarian cancer specimens obtained from stage I, stage II, stage III and stage IV patients. X represents the cut-off value (calculated as the mean of antibody titers detected in healthy donors + 2sD) above which all specimens were considered as positive. (B) Immunoblotting experiments were performed to confirm anti-aKap4 humoral responses and the specificity of circulating anti-aKap4 antibodies was validated by neutralization experiments. Lane 1, coomassie brilliant blue stained purified recombinant aKap4 protein; Lane 2, polyclonal anti-aKap4 antibody showing aKap4 immunoreactivity; Lane 3–6, aKap4-immunoreactive bands indicative of aKap-specific humoral responses in representative stage I, stage II, stage III and stage IV patients; Lane 7, absence of anti-aKap4 humoral responses in the serum of a healthy donor; Lane 8, absence of aKap4-immunoreactive bands upon the pre-incubation of the patient’s serum with 15 ?g/mL recombinant aKap4.",
+  "captionBoundary": {
+    "x1": 52.96795654296875,
+    "x2": 394.3999328613281,
+    "y1": 481.7416076660156,
+    "y2": 586.6976318359375
+  },
+  "figType": "Figure",
+  "imageText": ["In", "summary,", "the", "facts", "that", "AKAP4", "is", "expressed", "by", "malignant", "but", "not", "by", "normal", "cells", "(with", "the", "exception", "of", "testes)", "and", "that", "it", "elicits", "spontaneous", "humoral", "responses", "in", "patients", "make", "it", "an", "ideal", "candidate", "target", "for", "the", "immu-", "notherapy", "of", "ovarian", "cancer.", "Our", "data", "demonstrate", "that", "AKAP4", "is", "expressed", "by", "ovarian", "cancer", "cells", "and", "is", "highly", "immunogenic,", "laying", "the", "foundations", "for", "exploring", "the", "potential", "of", "AKAP4", "as", "a", "therapeutic", "target", "in", "ovarian", "carci-", "noma.", "Future", "studies", "will", "have", "to", "ana-", "lyze", "whether", "AKAP4", "also", "elicits", "T-cell", "responses", "in", "ovarian", "cancer", "patients", "and", "whether", "AKAP4", "or", "AKAP4-", "derived", "peptides", "can", "be", "successfully", "65%", "(22/34)", "of", "patients", "whose", "ovar-", "ian", "cancer", "expressed", "AKAP4", "exhibited", "an", "anti-AKAP4", "humoral", "response.", "The", "elicitation", "of", "humoral", "responses", "against", "AKAP4", "might", "depend", "on", "the", "MHC", "genetics", "of", "each", "patients,", "based", "on", "which", "patients", "could", "be", "classified", "as", "“responders”", "and", "“non-respond-", "ers.”", "Importantly,", "the", "majority", "of", "our", "specimens", "corresponded", "to", "serous", "adenocarcinoma", "and", "serous", "papillary", "carcinoma,", "which", "expressed", "AKAP4", "in", "93%", "(28/30)", "and", "100%", "(6/6)", "of", "cases,", "respectively.", "Moreover,", "79%", "(19/24)", "serous", "adenocarcinoma", "and", "67%", "(4/6)", "serous", "papillary", "carcinoma", "patients", "exhibited", "circulating", "anti-AKAP4", "antibodies."],
+  "name": "4",
+  "page": 5,
+  "regionBoundary": {
+    "x1": 47.519999999999996,
+    "x2": 564.9599999999999,
+    "y1": 60.0,
+    "y2": 481.91999999999996
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748595664_1_onci-2-e24270\\image\\multi_upload_1748595664_1_onci-2-e24270-Figure4-1.png"
+}, {
+  "caption": "Figure 1. AKAP4 expression in representative stage I, stage II, stage III and stage IV ovarian cancer tissue specimens. Tissue samples were analyzed by RT-pcR with aKap4-specific primers. No aKap4 expression was detected in matched adjacent non-cancerous tissue (aNcT) specimens. Testis cDNa was used as a positive control, while ? actin was quantified as an internal loading control.",
+  "captionBoundary": {
+    "x1": 53.02399826049805,
+    "x2": 555.1760864257812,
+    "y1": 193.98162841796875,
+    "y2": 218.9376220703125
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 1,
+  "regionBoundary": {
+    "x1": 53.28,
+    "x2": 558.24,
+    "y1": 60.0,
+    "y2": 176.16
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748595664_1_onci-2-e24270\\image\\multi_upload_1748595664_1_onci-2-e24270-Figure1-1.png"
+}, {
+  "caption": "Table 1. aKap4 expression and humoral response in ovarian carcinoma patients",
+  "captionBoundary": {
+    "x1": 315.9919738769531,
+    "x2": 555.7761840820312,
+    "y1": 65.04161834716797,
+    "y2": 79.99761962890625
+  },
+  "figType": "Table",
+  "imageText": ["22/24", "(92)", "22/24", "(92)", "12/24", "(50)", "Subtotal", "of", "FIGO", "Stages", "III", "and", "IV", "4.", "stage", "IV", "11/11", "(100)", "11/11", "(100)", "4/11", "(36)", "3.", "stage", "III", "11/13", "(85)", "11/13", "(85)", "8/13", "(61)", "12/14", "(86)", "12/14", "(86)", "10/14", "(71)", "Subtotal", "of", "FIGO", "Stages", "I", "and", "II", "2.", "stage", "II", "5/7", "(71)", "5/7", "(71)", "3/7", "(43)", "1.", "stage", "I", "7/7", "(100)", "7/7", "(100)", "7/7", "(100)", "FIGO", "stages", "0/1", "(0)", "0/1", "(0)", "0/1", "(0)", "4.", "endometroid", "adenocarcinoma", "3.", "adenofibroma", "0/1", "(0)", "0/1", "(0)", "0/1", "(0)", "6/6", "(100)", "6/6", "(100)", "4/6", "(67)", "2.", "serous", "papillary", "carcinoma", "1.", "serous", "adenocarcinoma", "28/30", "(93)", "28/30", "(93)", "19/24", "(79)", "Clinical", "sub-types", "All", "tumors", "34/38", "(89)", "34/38(89)", "22/38(58)", "RT-PCR", "(%)", "IHC", "(%)", "ELISA", "(%)"],
+  "name": "1",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 312.0,
+    "x2": 564.0,
+    "y1": 82.56,
+    "y2": 320.15999999999997
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748595664_1_onci-2-e24270\\image\\multi_upload_1748595664_1_onci-2-e24270-Table1-1.png"
+}, {
+  "caption": "Figure 2. In situ localization of AKAP4 mRNa in representative stage I, stage II, stage III and stage IV ovarian cancer tissue specimens. Ovarian cancer samples representative of all FIGO stages were stained with hematoxylin and eosin (left panels) or with AKAP4-specific anti-sense (middle panels) or sense (right panels) riboprobes, the latter as a negative control condition. Original magnification = 200×, = objective 20×.",
+  "captionBoundary": {
+    "x1": 53.02399826049805,
+    "x2": 551.22412109375,
+    "y1": 537.901611328125,
+    "y2": 562.8576049804688
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "2",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 74.88,
+    "x2": 537.12,
+    "y1": 60.0,
+    "y2": 520.3199999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748595664_1_onci-2-e24270\\image\\multi_upload_1748595664_1_onci-2-e24270-Figure2-1.png"
+}, {
+  "caption": "Figure 3. aKap4 expression in representative stage I, stage II, stage III and stage IV tissue ovarian cancer specimens. serial sections from ovarian cancer samples representative of all FIGO stages (left and middle panels) or from matched adjacent non-cancerous tissue (aNcT) specimens (right panel) were probed with polyclonal anti-aKap4 antibodies (left and right panels) or with non-specific IgGs (central panel), as a staining control condition.",
+  "captionBoundary": {
+    "x1": 53.02399826049805,
+    "x2": 555.239990234375,
+    "y1": 539.8215942382812,
+    "y2": 564.777587890625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "3",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 74.88,
+    "x2": 537.12,
+    "y1": 60.0,
+    "y2": 522.24
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\multi_upload_1748595664_1_onci-2-e24270\\image\\multi_upload_1748595664_1_onci-2-e24270-Figure3-1.png"
+}]

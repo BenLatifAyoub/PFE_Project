@@ -1,0 +1,141 @@
+[{
+  "caption": "Figure 4. The steps required to achieve an accurate mesh model. (a) Airways segmented with a 3D confidence-connected region-growing algorithm; (b) centerline delineation; (c) global and local smoothing and edge cutting performed in 3-Matic (Materialized NV, Belgium) and Ansys SpaceClaim (Ansys I c., Canonsburg, PA, USA); and (d) mesh ge eration in Ansys Fluent (Ansys Inc., Canonsburg, PA, USA). The origin l CT data are from [112].",
+  "captionBoundary": {
+    "x1": 166.3939971923828,
+    "x2": 559.2761840820312,
+    "y1": 246.21377563476562,
+    "y2": 303.04302978515625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "4",
+  "page": 10,
+  "regionBoundary": {
+    "x1": 165.6,
+    "x2": 511.2,
+    "y1": 88.8,
+    "y2": 237.12
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748334758_30056_diagnostics-14-01979\\image\\upload_1748334758_30056_diagnostics-14-01979-Figure4-1.png"
+}, {
+  "caption": "Figure 4. The steps required to achieve an accurate mesh model. (a) Airways segmented with a 3D confidence-connected region-growing algorithm; (b) centerline delineation; (c) global and local",
+  "captionBoundary": {
+    "x1": 155.00401306152344,
+    "x2": 545.22509765625,
+    "y1": 251.93898010253906,
+    "y2": 268.031005859375
+  },
+  "figType": "Figure",
+  "imageText": ["Canonsburg,", "PA,", "USA).", "The", "original", "CT", "data", "are", "from", "[112]..", "Claim", "(Ansys", "Inc.,", "Canonsburg,", "PA,", "USA);", "and", "(d)", "mesh", "generation", "in", "Ansys", "Fluent", "(Ansys", "Inc.,", "smoothing", "and", "edge", "cutting", "performed", "in", "3-Matic", "(Materialized", "NV,", "Belgium)", "and", "Ansys", "Space-"],
+  "name": "4",
+  "page": 10,
+  "regionBoundary": {
+    "x1": 154.56,
+    "x2": 559.68,
+    "y1": 267.84,
+    "y2": 303.36
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748334758_30056_diagnostics-14-01979\\image\\upload_1748334758_30056_diagnostics-14-01979-Figure4-1.png"
+}, {
+  "caption": "Table 1. Seminal geometrical models of the tracheobronchial tree, reported in chronological order.",
+  "captionBoundary": {
+    "x1": 166.09799194335938,
+    "x2": 553.1494140625,
+    "y1": 530.59375,
+    "y2": 536.135009765625
+  },
+  "figType": "Table",
+  "imageText": ["Lung", "casts", "15–17", "Data", "from", "only", "two", "casts", "Unique", "branch", "identification", "Gravitational", "angles", "Record", "structural", "abnormalities", "Phalen", "et", "al.", "[20]", "1978", "Inadequate", "for", "terminal", "inhomogeneities", "No", "spatial", "positions", "for", "branches", "Lung", "casts", "Up", "to", "25", "Asymmetric", "dichotomy", "Self-consistency", "Branching", "angles", "Horsfield", "(Delta", "Model)", "[2]", "1971", "No", "asymmetry", "No", "branching", "angles", "No", "gravitational", "angles", "Weibel", "(Model", "A)", "[1]", "1963", "Symmetric", "dichotomy", "Lung", "casts", "23", "Mathematical", "Model", "Year", "Key", "Points", "Data", "Source", "Number", "of", "Generations", "Limitations"],
+  "name": "1",
+  "page": 1,
+  "regionBoundary": {
+    "x1": 34.56,
+    "x2": 559.1999999999999,
+    "y1": 547.68,
+    "y2": 721.92
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748334758_30056_diagnostics-14-01979\\image\\upload_1748334758_30056_diagnostics-14-01979-Table1-1.png"
+}, {
+  "caption": "Figure 1. (a). Symmetrical branching airway tree. In this structure, each airway is identified by its generation number, starting from the trachea. (b) Asymmetrical airway tree structure proposed by orsfiel . I t is o el, eac air a is i e tifie b its or er ber, starti fro t e ter i al i les. l .",
+  "captionBoundary": {
+    "x1": 166.3939971923828,
+    "x2": 559.6214599609375,
+    "y1": 713.249755859375,
+    "y2": 757.2570190429688
+  },
+  "figType": "Figure",
+  "imageText": ["i", "i", "i", ".", "Fractal", "geometry.", "The", "concept", "of", "fractal", "geometry,", "introduced", "by", "Mandelbrot", "in", "the"],
+  "name": "1",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 166.07999999999998,
+    "x2": 560.16,
+    "y1": 756.9599999999999,
+    "y2": 793.92
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748334758_30056_diagnostics-14-01979\\image\\upload_1748334758_30056_diagnostics-14-01979-Figure1-1.png"
+}, {
+  "caption": "Figure 1. (a). Symmetrical branching airway tree. In this structure, each airway is identified by its generation number, starting from the trachea. (b) Asymmetrical airway tree structure proposed by Horsfield. In this model, each airway is identified by its order number, starting from the terminal bronchioles. Of note is the asymmetry introduced in the branching angles. The numbers in the figure indicate the generation order.",
+  "captionBoundary": {
+    "x1": 166.8090057373047,
+    "x2": 559.9730224609375,
+    "y1": 718.47900390625,
+    "y2": 769.1610107421875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 165.6,
+    "x2": 373.44,
+    "y1": 551.52,
+    "y2": 704.16
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748334758_30056_diagnostics-14-01979\\image\\upload_1748334758_30056_diagnostics-14-01979-Figure1-1.png"
+}, {
+  "caption": "Table 1. Cont.",
+  "captionBoundary": {
+    "x1": 166.09800720214844,
+    "x2": 220.43341064453125,
+    "y1": 90.3237533569336,
+    "y2": 95.864990234375
+  },
+  "figType": "Table",
+  "imageText": ["Correlation", "between", "branching", "angle", "and", "diameter", "Does", "not", "consider", "the", "space", "occupied", "by", "other", "airways", "Davoodi", "et", "al.", "[25]", "2016", "Lindenmayer", "system", "Imaging", "data", "23", "Tawhai", "et", "al.", "[24]", "2000", "Growth", "of", "a", "bifurcating", "tree", "structure", "in", "the", "thoracic", "cavity", "Imaging", "data", "16–17", "Diameters", "of", "branches", "with", "the", "same", "order", "are", "identical", "More", "asymmetry", "than", "human", "lung", "Highly", "sensitive", "to", "host", "geometry", "and", "model", "parameters", "Literature", "14–16", "Consider", "the", "spatial", "position", "of", "the", "airways", "Rules", "to", "assign", "branch", "diameters,", "angles,", "lengths", "Kitaoka", "et", "al.", "[23]", "1999", "Nelson", "et", "al.", "[22]", "1988", "Fractal", "geometry", "Lung", "casts", "NA", "Limited", "to", "2D", "Data", "from", "only", "one", "cast", "Uncertain", "number", "of", "terminal", "bronchioles", "Yeh", "et", "al.", "[21]", "1980", "Lobar", "asymmetry", "Applicable", "to", "a", "lung", "portion", "Lung", "casts", "24", "Mathematical", "Model", "Year", "Key", "Points", "Data", "Source", "Number", "of", "Generations", "Limitations"],
+  "name": "1",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 34.56,
+    "x2": 559.1999999999999,
+    "y1": 107.52,
+    "y2": 346.08
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748334758_30056_diagnostics-14-01979\\image\\upload_1748334758_30056_diagnostics-14-01979-Table1-1.png"
+}, {
+  "caption": "Figure 3. Axial, coronal, and sagittal views of a CT scan from a healthy volunteer. The airways have been segmented using a 3D confidence-connected region-growing algorithm. The original CT data are from [82], acquired at Washington University in St. Louis, MO, USA.",
+  "captionBoundary": {
+    "x1": 168.31858825683594,
+    "x2": 548.661865234375,
+    "y1": 740.3145751953125,
+    "y2": 767.0457153320312
+  },
+  "figType": "Figure",
+  "imageText": ["successfully", "segment", "the", "upper", "respiratory", "tract.", "Peterson", "et", "al.", "[92]", "achieved", "a", "rough", "employed", "a", "combination", "of", "commercially", "available", "software", "and", "manual", "segmentation", "to", "reconstruction", "of", "the", "airway", "tree,", "except", "for", "the", "work", "by", "Wang", "et", "al.", "[91].", "Lewis", "et", "al.", "[90]", "model.", "Nevertheless,", "there", "is", "a", "lack", "of", "specific", "segmentation", "methods", "for", "MRI", "data", "in", "the", "yielding", "consistent", "results", "when", "compared", "to", "the", "expected", "dimensions", "based", "on", "Weibel’s", "perpolarized", "3He", "MRI", "to", "accurately", "measure", "the", "diameters", "of", "the", "first", "five", "generations,", "the", "challenges", "of", "traditional", "MRI.", "For", "instance,", "Lewis", "and", "colleagues", "[90]", "utilized", "hy-", "Hyperpolarized", "gas", "MRI.", "The", "utilization", "of", "contrast", "agents", "has", "partially", "mitigated", "logical", "conditions.", "chea", "segmentation", "to", "evaluate", "tracheal", "stenosis", "during", "surgical", "interventions", "for", "patho-", "process,", "leading", "to", "longer", "acquisition", "times", "[88].", "Ivanovska", "et", "al.", "[89]", "focused", "on", "MRI", "tra-", "presence", "of", "artifacts", "from", "respiratory", "and", "heart", "motion", "further", "complicates", "the", "imaging", "in", "terms", "of", "image", "quality", "and", "resolution", "due", "to", "the", "low", "proton", "density", "in", "lung", "tissue.", "The", "dealing", "with", "young", "patients.", "However,", "traditional", "MRI", "of", "lung", "structures", "faces", "challenges", "ticularly", "beneficial", "in", "cases", "where", "high", "repeatability", "of", "examinations", "is", "necessary", "or", "when", "have", "enabled", "the", "radiation-free", "imaging", "of", "the", "lungs,", "comparable", "to", "CT", "scans.", "This", "is", "par-", "Traditional", "MRI.", "Advancements", "in", "MRI", "technology", "and", "specific", "imaging", "sequences", "Magnetic", "Resonance", "Imaging", "(MRI)", "non-traction", "bronchiectasis", "[87].", "bronchiectasis", "[85,86].", "Limited", "research", "has", "focused", "on", "airway", "recognition", "in", "the", "case", "of", "branches", "with", "their", "corresponding", "artery", "to", "extract", "measurements", "of", "wall", "thickness", "and", "scans", "[78,84].", "A", "few", "studies", "have", "presented", "techniques", "for", "automatically", "matching", "airway", "ways", "caused", "by", "CF", "bronchiectasis.", "This", "phenomenon", "facilitates", "their", "identification", "on", "CT", "of", "segmented", "airway", "branches,", "potentially", "attributed", "to", "the", "expansion", "of", "peripheral", "air-", "nected", "airway", "segments", "[4].", "Cystic", "fibrosis", "has", "been", "associated", "with", "an", "increased", "presence", "analysis.", "Their", "approach", "involved", "utilizing", "airway", "topology", "and", "shape", "to", "identify", "discon-", "tion", "of", "airways", "beyond", "areas", "of", "obstruction", "to", "improve", "the", "efficiency", "of", "automated", "airway", "Irving", "and", "colleagues", "focused", "on", "bronchoconstriction,", "which", "allowed", "for", "the", "segmenta-", "sensitivity", "and", "reliability,", "with", "varying", "execution", "times", "despite", "the", "optimization", "[74,78].", "challenging", "due", "to", "large", "low-attenuation", "areas,", "authors", "reported", "a", "significant", "decrease", "in", "and", "diseased", "subjects.", "On", "severe", "COPD", "patients,", "where", "airway", "detection", "can", "be", "more", "Only", "a", "few", "papers", "measure", "segmentation", "performance", "on", "scans", "from", "both", "healthy", "few", "patients", "with", "severe", "pathology", "affecting", "the", "airway", "tree", "anatomy", "were", "included", "[83].", "leased", "a", "large", "dataset", "that", "encompassed", "both", "screening", "and", "COVID-19", "patient", "data,", "but", "Modeling", "(ATM’22)", "challenge,", "organized", "as", "a", "part", "of", "the", "MICCAI", "2022", "conference,", "re-", "of", "data", "related", "to", "airway", "abnormalities.", "The", "recent", "Multi-site,", "Multi-domain", "Airway", "Tree", "tiveness", "of", "new", "algorithms", "[64,76,83].", "However,", "these", "datasets", "contain", "a", "limited", "amount", "ment", "of", "data-driven", "techniques", "and", "to", "allow", "for", "a", "comprehensive", "assessment", "of", "the", "effec-", "pathological", "bronchial", "trees.", "Benchmark", "datasets", "have", "been", "created", "to", "aid", "in", "the", "advance-", "A", "limited", "number", "of", "studies", "specifically", "address", "airway", "segmentation", "in", "the", "case", "of", "Segmentation", "of", "Pathological", "Bronchial", "Trees"],
+  "name": "3",
+  "page": 7,
+  "regionBoundary": {
+    "x1": 166.07999999999998,
+    "x2": 559.68,
+    "y1": 767.04,
+    "y2": 840.9599999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748334758_30056_diagnostics-14-01979\\image\\upload_1748334758_30056_diagnostics-14-01979-Figure3-1.png"
+}]

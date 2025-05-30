@@ -1,0 +1,41 @@
+[{
+  "caption": "Table 1 Demographic, clinical, laboratory parameters, and PFT of patients and controls",
+  "captionBoundary": {
+    "x1": 48.302398681640625,
+    "x2": 340.0072937011719,
+    "y1": 67.07217407226562,
+    "y2": 70.52587890625
+  },
+  "figType": "Table",
+  "imageText": ["Mann–Whitney", "U-test", "for", "continuous", "data", "and", "chi–square", "test", "for", "categorical", "data.", "All", "continuous", "data", "are", "presented", "as", "median", "and", "range.", "For", "cate-", "gorical", "data,", "?gures", "within", "parenthesis", "indicate", "percentages.", "ASA,", "amino", "salicylic", "acid;", "BMI,", "body", "mass", "index;", "DLCO,", "diffusion", "lung", "capacity", "for", "carbon", "monoxide;", "FEV1,", "forced", "expiratory", "volume", "in", "1", "s;", "FVC,", "forced", "vital", "capacity;", "MEF,", "mean", "expiratory", "?ow,", "PEFR,", "peak", "expiratory", "?ow", "rate;", "PFT,", "pulmonary", "function", "test.", "Age", "(years),", "median", "(range)", "40", "(16–66)", "38", "(14–69)", "0.70", "Sex", "(males),", "n", "(%)", "55", "(63.2)", "34", "(68)", "0.57", "Mean", "duration", "of", "disease", "(months)", "48", "(1–240)", "Drugs", "ASA", "(%)", "78", "(89.7)", "Steroids", "(%)", "39", "(44.8)", "Azathioprine", "(%)", "16", "(18.4)", "Methotrexate", "(%)", "2", "(2.3)", "Sulfasalazine", "(%)", "9", "(10.3)", "Extent", "of", "disease", "Proctitis", "(%)", "24", "(27.6)", "Left-sided", "colitis", "(%)", "42", "(48.3)", "Pancolitis", "(%)", "21", "(24.1)", "Disease", "activity", "Remission", "(%)", "49", "(58.6)", "Relapse", "(%)", "38", "(41.4)", "Mild", "(%)", "6", "(15.8)", "Moderate", "(%)", "9", "(23.7)", "Severe", "(%)", "23", "(60.5)", "Hemoglobin", "(g/dL)", "11.8", "(5.3–17.2)", "Albumin", "(g/dL)", "3.9", "(1.6–4.9)", "BMI", "(kg/m2),", "median", "(range)", "20.9", "(14.8–34.2)", "23.1", "(15.9–34.9)", "0.83", "Abnormal", "PFT,", "n", "(%)", "24", "(27.6)", "1", "(2)", "<0.01", "FEV1", "median", "(range)", "89(51–171)", "98", "(71–181)", "0.000", "FEV1/FVC", "median", "(range)", "86", "(63–120)", "91", "(80–118)", "0.048", "FVC", "median", "(range)", "87", "(49–145)", "92.5", "(80–145)", "0.005", "MEF25–75", "median", "(range)", "77", "(24–176)", "91.5", "(67–176)", "0.000", "PEFR", "median", "(range)", "79(38–122)", "96.5", "(70–140)", "0.000", "DLCO", "median", "(range)", "108", "(68–213)", "122", "(82–213)", "0.000", "P-value", "Healthy", "controls", "(n", "=", "50)", "Parameters", "Patients", "(n", "=", "87)"],
+  "name": "1",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 48.0,
+    "x2": 541.4399999999999,
+    "y1": 77.28,
+    "y2": 458.88
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746292679_33168_JGH3-1-32\\image\\upload_1746292679_33168_JGH3-1-32-Table1-1.png"
+}, {
+  "caption": "Figure 1 FEV1, FEV1/FVC, MEFR, and DLCO in patients with remission ( ), relapse ( ), and control ( ). FEV1 ([remission vs controls, P = 0.003], [relapse vs controls, P = 0.001] and [remission vs relapse, P = 0.504]). FEV1/FVC ([remission vs controls, P = 0.005], [relapse vs controls, P = 0.049] and [remission vs relapse, P = 0.595]). MEFR ([remission vs controls, P = 0.00], [relapse vs controls, P = 0.00] and [remission vs relapse, P = 0.745]). DLCO ([remission vs controls, P = 0.007], [relapse vs controls, P = 0.002] and [remission vs relapse, P = 0.784]). DLCO, diffusion lung capacity for carbon monoxide; FEV1, forced expiratory volume in 1 s; FVC, forced vital capacity; MEFR, mid-expiratory flow rate.",
+  "captionBoundary": {
+    "x1": 48.30029296875,
+    "x2": 540.2673950195312,
+    "y1": 330.2973937988281,
+    "y2": 377.0078125
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 123.83999999999999,
+    "x2": 465.12,
+    "y1": 64.32,
+    "y2": 311.52
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746292679_33168_JGH3-1-32\\image\\upload_1746292679_33168_JGH3-1-32-Figure1-1.png"
+}]

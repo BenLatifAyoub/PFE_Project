@@ -1,0 +1,221 @@
+[{
+  "caption": "Figure 3. The genetic code in ancient Bacteria (i.e., Thermus thermophilus). GAA/AAA indicates anticodon GAA is utilized and AAA is not, to encode Phe. QGUA/AUA indicates the G34?Q34 modification and AUA is not utilized. LysRS-IIB is a bacterial innovation. cm2UAA for Leu indicates that the precise 5-carbon U modification to suppress superwobbling is not currently reported for Thermus thermophilus. Some tRNA modification data were inferred by identifying enzymes in Thermus thermophilus. It is not clear to us at the time of writing how the Arg 4-codon box is read.",
+  "captionBoundary": {
+    "x1": 165.8470001220703,
+    "x2": 559.4588623046875,
+    "y1": 393.70379638671875,
+    "y2": 463.3550109863281
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "3",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 165.6,
+    "x2": 498.24,
+    "y1": 182.88,
+    "y2": 384.96
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Figure3-1.png"
+}, {
+  "caption": "Figure 6. The genetic code in the eukaryotic cytosol (i.e., human). Shading and symbols are as in",
+  "captionBoundary": {
+    "x1": 166.3939971923828,
+    "x2": 559.2786865234375,
+    "y1": 743.0337524414062,
+    "y2": 748.5750122070312
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "6",
+  "page": 9,
+  "regionBoundary": {
+    "x1": 165.6,
+    "x2": 558.24,
+    "y1": 531.84,
+    "y2": 733.92
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Figure6-1.png"
+}, {
+  "caption": "Figure 8. TRNA-37 modifications in Archaea. The tRNA-34 and tRNA-37 modifications are indicated in bold type. TRNA-37 modifications track the tRNA-36 position (rows 1–4). Row 1 (light blue) and 3 (light green) numbers are shaded for emphasis.",
+  "captionBoundary": {
+    "x1": 166.09800720214844,
+    "x2": 559.2780151367188,
+    "y1": 428.1037902832031,
+    "y2": 459.28900146484375
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "8",
+  "page": 13,
+  "regionBoundary": {
+    "x1": 36.96,
+    "x2": 558.24,
+    "y1": 195.84,
+    "y2": 417.12
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Figure8-1.png"
+}, {
+  "caption": "Figure 7. Elp3 (tRNA-cm5U34 methyl transferase) is an ancient enzyme. The Elp3 homolog RlmN (tRNA-m2A37) methylase is shown. (A) A view of the RlmN structure. (B) A detail and rotated view. ?-sheets are yellow. The Fe4S4 cage is indicated. A 5?-deoxyadenosine (5AD) radical is formed from S-adenosylmethionine (space-filling representation). The radical reaction mechanism of RlmN methylase involves a covalent intermediate linking Cys355 and m2A37. In Archaea, Elp3 may function somewhat differently. Enzymes of this class include an S-adenosylmethionine methylase domain and a lysine acetyl transferase homology domain that binds acetyl coenzyme A.",
+  "captionBoundary": {
+    "x1": 166.09800720214844,
+    "x2": 559.6224365234375,
+    "y1": 486.8157958984375,
+    "y2": 569.2890014648438
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "7",
+  "page": 12,
+  "regionBoundary": {
+    "x1": 94.56,
+    "x2": 500.15999999999997,
+    "y1": 314.88,
+    "y2": 476.15999999999997
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Figure7-1.png"
+}, {
+  "caption": "Figure 4. The genetic code in derived Bacteria (i.e., Escherichia coli). Innovations include: (1) ProRS-IIA takes on additional bacterial features; (2) Arg ACG?ICG/GCG is utilized (Thermus thermophilus appears to lack tRNA adenosine deaminase); and (3) GlyRS-IIA can be replaced in some Bacteria by GlyRS-IID. As in Thermus thermophilus, LysRS-IIB and type II tRNATyr are utilized. This table is based on incomplete tRNA modification data. Escherichia coli appears not to utilize Lys anticodon CUU.",
+  "captionBoundary": {
+    "x1": 166.3939971923828,
+    "x2": 559.6246948242188,
+    "y1": 380.9637756347656,
+    "y2": 437.79302978515625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "4",
+  "page": 7,
+  "regionBoundary": {
+    "x1": 165.6,
+    "x2": 512.16,
+    "y1": 179.51999999999998,
+    "y2": 372.0
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Figure4-1.png"
+}, {
+  "caption": "Figure 1. The Saccharomyces cerevisiae tRNAPhe anticodon loop (PDB 1EHZ). (A) The linear sequence is shown. The anticodon (Ac) is indicated (3 blue dots). (B) The folded loop structure is shown. / indicates a U-turn. (C–E) Three views of the anticodon loop are shown. The anticodon is indicated in C (blue dots). Blue dashed lines indicate H-bonds. Colors: (beige) carbon; (blue) nitrogen; (red) oxygen; (orange) phosphorous. Abbreviations: (cm) 2?-O-methylcytidine; (Gm) 2?-O-methylguanosine; (yW) wybutosine (modification of G); (?) pseudouridine; (m5C) 5-methylcytidine.",
+  "captionBoundary": {
+    "x1": 165.3090057373047,
+    "x2": 560.8471069335938,
+    "y1": 413.92578125,
+    "y2": 483.5770263671875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 54.72,
+    "x2": 540.0,
+    "y1": 124.8,
+    "y2": 403.2
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Figure1-1.png"
+}, {
+  "caption": "Figure 10. Evolution of tRNA-34 wobble modifications. Superwobbling in mitochondria indicates that cm5U34-based modifications were necessary to generate 2-codon sectors to evolve the LUCA code. Red strikethrough indicates that an anticodon is not utilized. ? indicates pseudouridine. In mitochondria, 2-codon sectors are utilized to encode Ile, Met and Trp. HGT indicates horizontal gene transfer. Not all anticodon strike-outs are listed for superwobbling in mitochondria.",
+  "captionBoundary": {
+    "x1": 166.3939971923828,
+    "x2": 559.6235961914062,
+    "y1": 332.82177734375,
+    "y2": 389.6510009765625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "10",
+  "page": 16,
+  "regionBoundary": {
+    "x1": 165.6,
+    "x2": 443.03999999999996,
+    "y1": 122.88,
+    "y2": 324.0
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Figure10-1.png"
+}, {
+  "caption": "Table 1. Human aaRS enzymes (and genes) in the cytosol and mitochondria. PMW indicates Parvarchaeota, Micrarchaeota, and Woesearchaeota [51]. The mitochondria utilize GluRS-IB to generate Glu-tRNAGln and a transamidase to generate Gln-tRNAGln for translation. Abbreviations: Cyto) cytoplasmic; Mito) mitochondrial.",
+  "captionBoundary": {
+    "x1": 166.09799194335938,
+    "x2": 560.3929443359375,
+    "y1": 349.97076416015625,
+    "y2": 393.9770202636719
+  },
+  "figType": "Table",
+  "imageText": ["AlaRS-IID", "AARS", "(Bacteria)", "AARS2", "(Bacteria)", "ArgRS-ID", "RARS", "(Bacteria)", "RARS2", "(Bacteria)", "AsnRS-IIB", "NARS", "(Archaea)", "NARS2", "(Bacteria)", "AspRS-IIB", "DARS", "(Deinococcus-Thermus;", "Bacteria)", "DARS2", "(Bacteria)", "CysRS-IB", "CARS", "(Archaea)", "CARS2", "(Archaea)", "GlnRS-IB", "QARS", "(Eukarya)", "Transamidation", "GluRS-IB", "EPRS", "(PMW;", "Archaea)", "EARS2", "(Bacteria)", "GlyRS-IIA", "GARS", "(Euryarchaeota;", "Archaea)", "HisRS-IIA", "HARS", "(Archaea)", "HARS2", "(Bacteria)", "IleRS-IA", "IARS", "(Lentisphaera;", "Bacteria)", "IARS2", "(Bacteria)", "LeuRS-IA", "LARS", "(PMW;", "Archaea)", "LARS2", "(Bacteria)", "LysRS-IIB", "KARS", "(Bacteria)", "MetRS-IA", "MARS", "(Archaea)", "MARS2", "(Bacteria)", "PheRS-IIC", "FARSA", "+", "FARSB", "(Euryarchaeota?;", "Archaea)", "FARS2", "(Bacteria)", "ProRS-IIA", "EPRS", "(Archaea)", "PARS2", "(Bacteria)", "SerRS-IIA", "SARS", "(TACK;", "Archaea)", "SARS2", "(Bacteria)", "ThrRS-IIA", "TARS", "(i.e.,", "Gemmatimonadetes?;", "Bacteria)", "TARS2", "(Bacteria)", "TrpRS-IC", "WARS", "(PMW;", "Archaea)", "WARS2", "(Bacteria)", "TyrRS-IC", "YARS", "(Archaea)", "YARS2", "(Bacteria)", "ValRS-IA", "VARS", "(Deltaproteobacteria?;", "Bacteria)", "VARS2", "(Bacteria)", "aaRS", "Cyto", "Cyto/Mito", "Mito"],
+  "name": "1",
+  "page": 11,
+  "regionBoundary": {
+    "x1": 34.56,
+    "x2": 559.1999999999999,
+    "y1": 405.59999999999997,
+    "y2": 647.04
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Table1-1.png"
+}, {
+  "caption": "Figure 5. The genetic code in human mitochondria. A major strategy to shrink the mitochondrial tRNAome was superwobbling (beige shading). In mitochondria, Met, Ile and Trp utilize 2-codon sectors. The distribution of stop codons has changed. GlnRS-IB is not imported into human mitochondria. G34?Q34 modifications are utilized in column 3. ? indicates taurine modifications. Many unused anticodons were not struck out in this figure (except in column 1). It appears that the human mitochondrial code may be completely and accurately reported [5].",
+  "captionBoundary": {
+    "x1": 166.3939971923828,
+    "x2": 560.766845703125,
+    "y1": 700.48779296875,
+    "y2": 770.1390380859375
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "5",
+  "page": 8,
+  "regionBoundary": {
+    "x1": 165.6,
+    "x2": 542.4,
+    "y1": 446.88,
+    "y2": 692.16
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Figure5-1.png"
+}, {
+  "caption": "Figure 2. The genetic code in Archaea (i.e., Pyrococcus furiosis). Genetic code columns (tRNA-35) are labelled 1–4. The leftmost table column gives row designations. Row 1–4 numbers indicate the tRNA-36 base. Codon bases (1st, 2nd, 3rd) are shaded pale yellow. TRNA-34 bases are indicated with modifications in bold type. Amino acids and aaRS structural classes and subclasses are shown (i.e., Phe-IIC indicates tRNAPhe is charged by PheRS-IIC) (aa-aaRS). GAA/AAA indicates anticodon (Ac) data. Anticodon GAA reads codons UUU and UUC, and anticodon AAA is not utilized. Color highlighting is meant to emphasize particular table features and evolution of aaRS enzymes through Earth’s history in Figures 2–6. Data were modeled on Pyrococcus furiosis but tRNA modification data are not complete, so some data were inferred or utilized from other Archaea. Color shading is meant to be largely consistent in Figures 2–6.",
+  "captionBoundary": {
+    "x1": 166.01699829101562,
+    "x2": 560.1708984375,
+    "y1": 661.9727783203125,
+    "y2": 782.9110107421875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "2",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 165.6,
+    "x2": 506.4,
+    "y1": 446.88,
+    "y2": 653.28
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Figure2-1.png"
+}, {
+  "caption": "Figure 9. The decoding center of the Thermus thermophilus ribosome during peptide bond synthesis [78]. Colors: (grey) P-site tRNA anticodon loop; beige) A-site tRNA anticodon loop; sea (green) the “latch”; and (red) mRNA. A bend in the mRNA that separates the P-site and A-site codons and anticodons is indicated (red arrow). Codon positions (1, 2 and 3) and the 5’?3’ directionality of the mRNA are indicated.",
+  "captionBoundary": {
+    "x1": 166.39395141601562,
+    "x2": 560.76708984375,
+    "y1": 388.8057861328125,
+    "y2": 445.635009765625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "9",
+  "page": 15,
+  "regionBoundary": {
+    "x1": 165.6,
+    "x2": 552.0,
+    "y1": 121.44,
+    "y2": 380.15999999999997
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293093_3028_life-12-00252\\image\\upload_1748293093_3028_life-12-00252-Figure9-1.png"
+}]

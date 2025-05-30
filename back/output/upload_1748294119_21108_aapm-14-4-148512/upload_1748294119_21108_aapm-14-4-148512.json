@@ -1,0 +1,141 @@
+[{
+  "caption": "Figure 4. Comparison between propofol group and dexmedetomidine group according to (A), Facial Pain Rating Scale Preop; (B), postoperative visual analogue scale; and (C), postoperative modified Alderete score",
+  "captionBoundary": {
+    "x1": 70.5923843383789,
+    "x2": 539.3311767578125,
+    "y1": 632.0599365234375,
+    "y2": 641.7875366210938
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "4",
+  "page": 5,
+  "regionBoundary": {
+    "x1": 69.6,
+    "x2": 540.0,
+    "y1": 314.88,
+    "y2": 627.36
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748294119_21108_aapm-14-4-148512\\image\\upload_1748294119_21108_aapm-14-4-148512-Figure4-1.png"
+}, {
+  "caption": "Figure 3. Comparison between propofol group and dexmedetomidine group according to (A), BIS; and (B), postoperative Ramsey Sedation score",
+  "captionBoundary": {
+    "x1": 70.5923843383789,
+    "x2": 452.5938415527344,
+    "y1": 281.6546630859375,
+    "y2": 284.65814208984375
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "3",
+  "page": 5,
+  "regionBoundary": {
+    "x1": 69.6,
+    "x2": 540.0,
+    "y1": 97.92,
+    "y2": 277.44
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748294119_21108_aapm-14-4-148512\\image\\upload_1748294119_21108_aapm-14-4-148512-Figure3-1.png"
+}, {
+  "caption": "Table 2. Hypoxemic Events, Morphine Consumption in the First 24 Hours, and Hypotension Events in the Propofol and Dexmedetomidine Groups a",
+  "captionBoundary": {
+    "x1": 53.641807556152344,
+    "x2": 442.6225280761719,
+    "y1": 105.07410430908203,
+    "y2": 108.07757568359375
+  },
+  "figType": "Table",
+  "imageText": ["a", "Values", "are", "expressed", "as", "Mean", "(Range)", "or", "No.", "(%).", "Number", "of", "patients", "with", "hypotensive", "event", "14", "(13.9)", "18", "(17.8)", "0.441", "Total", "dose", "of", "morphine", "consumption", "(mg)", "4", "(2", "-", "8)", "2", "(2", "-", "6)", "<", "0.001", "Number", "of", "patients", "requiring", "morphine", "93", "(92.1)", "44", "(43.6)", "<", "0.001", "Number", "of", "patients", "with", "hypoxemic", "event", "27", "(26.7)", "15", "(14.9)", "0.037", "Variables", "Propofol", "Group;", "(n", "=", "101)", "Dexmedetomidine", "Group;", "(n", "=", "101)", "P-Value"],
+  "name": "2",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 52.8,
+    "x2": 523.1999999999999,
+    "y1": 111.83999999999999,
+    "y2": 199.2
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748294119_21108_aapm-14-4-148512\\image\\upload_1748294119_21108_aapm-14-4-148512-Table2-1.png"
+}, {
+  "caption": "Figure 1. Changes of mean arterial pressure in the propofol and dexmedetomidine groups during and after the procedure (data are presented as mean ± SD).",
+  "captionBoundary": {
+    "x1": 53.641807556152344,
+    "x2": 469.5428771972656,
+    "y1": 412.4024658203125,
+    "y2": 415.40594482421875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 52.8,
+    "x2": 523.1999999999999,
+    "y1": 223.67999999999998,
+    "y2": 408.47999999999996
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748294119_21108_aapm-14-4-148512\\image\\upload_1748294119_21108_aapm-14-4-148512-Figure1-1.png"
+}, {
+  "caption": "Figure 2. Changes of heart rate in the propofol and dexmedetomidine groups during and after the procedure (data are presented as mean ± SD).",
+  "captionBoundary": {
+    "x1": 53.641807556152344,
+    "x2": 436.0452880859375,
+    "y1": 632.0596923828125,
+    "y2": 635.0631713867188
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "2",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 52.8,
+    "x2": 523.1999999999999,
+    "y1": 445.91999999999996,
+    "y2": 627.36
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748294119_21108_aapm-14-4-148512\\image\\upload_1748294119_21108_aapm-14-4-148512-Figure2-1.png"
+}, {
+  "caption": "Table 1. Comparison of Demographic and Clinical Data, Time Till Target Sedation Achieved, and Time Till Recovery Between Propofol Group and Dexmedetomidine Groups a",
+  "captionBoundary": {
+    "x1": 70.5923843383789,
+    "x2": 525.44921875,
+    "y1": 105.07410430908203,
+    "y2": 108.07757568359375
+  },
+  "figType": "Table",
+  "imageText": ["Abbreviation:", "ASA,", "American", "Society", "of", "Anesthesiologists.", "a", "Values", "are", "expressed", "as", "Mean", "±", "SD", "or", "No.", "(%).", "Time", "till", "recovery", "(min)", "7.0", "±", "2.8", "5.4", "±", "1.8", "<", "0.001", "Time", "till", "target", "sedation", "achieved", "(sec)", "227", "±", "95", "235", "±", "95", "0.515", "Duration", "of", "procedure", "(min)", "44", "±", "2", "45", "±", "1", "0.186", "III", "64", "(63.4)", "59", "(58.4)", "II", "37", "(36.6)", "42", "(41.6)", "ASA", "Class", "0.471", "Body", "Mass", "Index", "(kg/m 2)", "26.6", "±", "3.4", "27.2", "±", "3.1", "0.139", "Male", "58", "(57.4)", "53", "(52.5)", "Female", "43", "(42.6)", "48", "(47.5)", "Gender", "0.480", "Age", "(y)", "46.0", "±", "12.0", "45.2", "±", "12.8", "0.656", "Variables", "Propofol", "Group;", "(n", "=", "101)", "Dexmedetomidine", "Group;", "(n", "=", "101)", "P-Value"],
+  "name": "1",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 69.6,
+    "x2": 540.0,
+    "y1": 111.83999999999999,
+    "y2": 290.4
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748294119_21108_aapm-14-4-148512\\image\\upload_1748294119_21108_aapm-14-4-148512-Table1-1.png"
+}, {
+  "caption": "Figure 5. Comparison between propofol group and dexmedetomidine group according to (A), postoperative nausea and vomiting; and (B), endoscopist's satisfaction",
+  "captionBoundary": {
+    "x1": 53.641807556152344,
+    "x2": 491.50665283203125,
+    "y1": 278.6658935546875,
+    "y2": 281.66937255859375
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "5",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 52.8,
+    "x2": 523.1999999999999,
+    "y1": 97.92,
+    "y2": 274.08
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748294119_21108_aapm-14-4-148512\\image\\upload_1748294119_21108_aapm-14-4-148512-Figure5-1.png"
+}]

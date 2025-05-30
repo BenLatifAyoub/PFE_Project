@@ -1,0 +1,61 @@
+[{
+  "caption": "Table 1. An overview of the global focus on metagenome-based microbiome studies.",
+  "captionBoundary": {
+    "x1": 129.95899963378906,
+    "x2": 465.02435302734375,
+    "y1": 450.3277893066406,
+    "y2": 455.8690185546875
+  },
+  "figType": "Table",
+  "imageText": ["Respiratory", "tract", "Microbiota", "composition", "indicates", "respiratory", "tract", "infection", "[20,21]", "Cerebrospinal", "?uids", "Microbiota", "composition", "indicates", "encephalitis,", "meningitis", "[19]", "Vaginal", "microbiome", "Microbiota", "composition", "indicates", "female", "reproductive", "health", "[16,17]", "[15]", "rheumatoid", "arthritis,", "Alzheimer’s", "disease,", "diabetes", "esophageal", "cancer,", "pancreatic", "cancer,", "cystic", "?brosis,", "cardiovascular", "disease,", "Microbiota", "composition", "indicates", "Periodontitis,", "dental", "caries,", "oral", "cancer,", "Oral", "microbiota", "[14,25–27]", "in?ammatory", "bowel", "disease,", "colorectal", "cancer", "hypertension,", "cognitive", "impairments,", "atherosclerosis,", "obesity,", "diabetes,", "non-alcoholic", "fatty", "liver", "disease,", "Microbiota", "composition", "indicates", "Parkinson’s", "disease,", "Alzheimer’s", "disease,", "Gut", "microbiota", "Disease", "diagnosis", "and", "management", "Metagenome", "studies", "on", "human", "health", "Broad", "Areas", "of", "Global", "Interest", "Sample", "Outcome", "of", "the", "Metagenome", "Study", "Ref."],
+  "name": "1",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 35.519999999999996,
+    "x2": 560.16,
+    "y1": 465.59999999999997,
+    "y2": 731.04
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293691_31644_microorganisms-09-02021\\image\\upload_1748293691_31644_microorganisms-09-02021-Table1-1.png"
+}, {
+  "caption": "Table 1. Cont.",
+  "captionBoundary": {
+    "x1": 270.3219909667969,
+    "x2": 324.65838623046875,
+    "y1": 98.92378997802734,
+    "y2": 104.46502685546875
+  },
+  "figType": "Table",
+  "imageText": ["survive", "under", "a", "Mars-like", "environment", "[74,75]", "Enable", "the", "understanding", "of", "how", "and", "which", "bacterial", "community", "members", "Kombucha", "mutualistic", "community", "and", "metal", "resistance", "genes", "[69,70]", "Identi?cation", "of", "several", "pathogenic", "bacteria,", "antimicrobial", "resistance", "genes,", "Spacecraft", "assembly", "cleanroom", "samples", "Identi?cation", "of", "novel", "strain", "Kalamiella", "piersonii", "gen.", "nov.,", "sp.", "nov", "in", "ISS", "[76]", "International", "Space", "Station", "(ISS)", "Corynebacterium", "ihumii", "GD7", "is", "the", "dominant", "species", "in", "ISS", "[68]", "International", "Space", "Station", "(ISS)", "Astrobiology", "[53,63–65]", "novel", "biocatalysts,", "antimicrobial", "metabolites,", "and", "industrial", "enzymes", "Environmental", "samples", "Identi?cation", "of", "bacterial", "strains", "producing", "Industrial", "applications", "bene?cial", "to", "health", "[61,62]", "Fermentation", "samples", "Microbial", "community", "indicates", "stage", "of", "fermentation", "and", "the", "microbes", "that", "are", "Beef", "processing", "waste", "Presence", "of", "S.", "enterica,", "E.", "coli,", "and", "C.", "botulinum", "[59]", "Ice", "cream", "samples", "Identi?cation", "of", "L.", "monocytogenes,", "the", "causal", "organism", "for", "Listeriosis", "outbreak", "[58]", "Mexican", "Cotija", "cheese", "Predominant", "genera", "are:", "Lactobacillus,", "Leuconostoc,", "and", "Weissella", "[56]", "Food", "monitoring", "Metagenome", "studies", "on", "other", "aspects", "contaminations", "in", "respective", "biomes", "[37–42]", "Microbial", "community", "indicates", "water", "quality,", "various", "pollutants,", "and", "chemical", "sediments", "Soil,", "river,", "lake,", "seashore,", "mangrove,", "ocean", "water,", "and", "[36]", "Rhodocyclaceae", "indicates", "presence", "of", "uranium", "Soil", "microbiome", "Presence", "of", "Rhodanobacter", "and", "Tongue", "River", "sediment", "Microbial", "community", "indicates", "presence", "of", "town", "waste", "and", "methane", "by-products", "[34]", "Human-occupied", "home", "Microbiome", "uniquely", "differs", "for", "each", "family", "[33]", "Environmental", "monitoring", "Beef", "production", "wastes", "Antimicrobial", "resistance", "genes", "detected", "[52]", "Fecal", "microbiota", "Antimicrobial", "resistance", "genes", "detected", "[50]", "Ready-to-eat", "foods", "Antimicrobial", "resistance", "genes", "detected", "[49]", "Abundance", "and", "diversity", "of", "antimicrobial", "resistance", "genes", "found", "[38,46]", "Mangrove", "and", "glacial", "lakes", "sediments", "Water", "treatment", "plants", "Abundance", "and", "diversity", "of", "antimicrobial", "resistance", "genes", "found", "[44,45]", "Antimicrobial", "resistance", "Metagenome", "studies", "on", "environment", "Broad", "Areas", "of", "Global", "Interest", "Sample", "Outcome", "of", "the", "Metagenome", "Study", "Ref."],
+  "name": "1",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 35.519999999999996,
+    "x2": 560.16,
+    "y1": 113.75999999999999,
+    "y2": 724.3199999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293691_31644_microorganisms-09-02021\\image\\upload_1748293691_31644_microorganisms-09-02021-Table1-1.png"
+}, {
+  "caption": "Table 2. Cont.",
+  "captionBoundary": {
+    "x1": 270.3219909667969,
+    "x2": 324.65838623046875,
+    "y1": 98.92378997802734,
+    "y2": 104.46502685546875
+  },
+  "figType": "Table",
+  "imageText": ["Presence", "of", "Enterobacteriaceae,", "Shewanellaceae,", "and", "Cellulomonadaceae", "[102]", "O.", "agamemnon", "larval", "mid-gut", "Oil", "samples", "Prevalence", "of", "Bacilli", "in", "crude", "oil", "and", "Flavobacteria", "in", "oil", "sludge", "[101]", "[100]", "may", "be", "a", "biosensor", "for", "environmental", "monitoring", "Red", "sea", "marine", "sponge", "Dominance", "of", "Proteobacteria", "in", "sponges", "Dominance", "of", "several", "opportunistic", "pathogens", "[99]", "local", "waste", "water", "treatment", "plant", "Taif", "River", "water", "Dominance", "of", "Proteobacteria", "[98]", "Hot", "spring", "sediments", "Dominance", "of", "Bacillus,", "Chloro?exus,", "and", "Brevibacillus", "[96,97]", "Dust", "storm", "Predominance", "of", "Proteobacteria", "and", "decline", "of", "Actinobacteria", "[95]", "Predominance", "of", "Proteobacteria,", "Actinobacteria,", "and", "Acidobacteria", "[94]", "South-western", "highlands", "desert", "plant", "[93]", "Marinobacter,", "Porticoccus,", "and", "Alcanivorax", "genera", "provide", "pathogen", "resistance", "in", "Rhizosphere", "microbiota", "desert", "resistance", "in", "desert", "plant", "[93]", "Predominance", "of", "Pseudomonas", "stutzeri", "and", "Virgibacillus", "koreensis", "provide", "saline", "Rhizosphere", "microbiota", "desert", "Predominance", "of", "Proteobacteria,", "Bacteroidetes,", "and", "Firmicutes", "[92]", "Rhizosphere", "microbiome,", "Red", "Sea", "Metagenome", "studies", "on", "environment", "Microbial", "diversity", "Broad", "Areas", "of", "Global", "Interest", "Speci?c", "Area", "of", "Study", "Sample", "Outcome", "of", "the", "Metagenome", "Study", "Ref."],
+  "name": "2",
+  "page": 7,
+  "regionBoundary": {
+    "x1": 35.519999999999996,
+    "x2": 560.16,
+    "y1": 113.75999999999999,
+    "y2": 409.91999999999996
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748293691_31644_microorganisms-09-02021\\image\\upload_1748293691_31644_microorganisms-09-02021-Table2-1.png"
+}]

@@ -1,0 +1,493 @@
+/* --- Import or reuse variables from analyze.css --- */
+/* Assuming analyze.css :root variables are globally available or copy them here */
+/* For brevity, I'll assume they are available. If not, copy the :root block from analyze.css */
+
+/* --- Base Page Styles (similar to AnalyzePage) --- */
+.course-page-container {
+    display: flex;
+    min-height: 100vh;
+    /* background-color: var(--bg-page); Using body background from index.css potentially */
+    color: var(--text-primary);
+    font-family: sans-serif;
+    line-height: 1.6;
+  }
+  
+  .course-main-content {
+    flex-grow: 1;
+    padding: 30px 40px;
+    width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* --- Control Panel for Title and Buttons --- */
+  .course-control-panel {
+    width: 100%;
+    max-width: 900px; /* Consistent with AnalyzePage */
+    padding: 25px 30px;
+    margin-bottom: 30px;
+    background-color: var(--bg-panel);
+    border-radius: 12px;
+    box-shadow: var(--shadow-medium);
+    border: 1px solid var(--border-color-light);
+    text-align: center;
+  }
+  
+  .course-page-title {
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 1.8em;
+    color: var(--accent-primary);
+    border-bottom: 1px solid var(--border-color-medium);
+    padding-bottom: 15px;
+  }
+  
+  .article-id-display {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-bottom: 20px;
+  }
+  
+  .course-action-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  /* --- Reusing Button Styles from AnalyzePage --- */
+  /* Ensure .button, .button-home, .button-secondary are defined in analyze.css or a global CSS */
+  /* Adding a new button style for refresh, can be similar to analyze or secondary */
+  .button-refresh {
+    background-color: var(--accent-secondary); /* Light Blue */
+    color: var(--button-primary-text); /* Dark text for light blue bg */
+  }
+  .button-refresh:hover:not(:disabled) {
+    background-color: #a7e4fa; /* Lighter blue */
+  }
+  
+  /* --- Status Area (reusing from AnalyzePage) --- */
+  .status-area {
+    width: 100%;
+    max-width: 900px;
+    margin-bottom: 20px; /* Space before content */
+    text-align: center;
+    min-height: 24px;
+  }
+  
+  .loading-indicator { /* From analyze.css */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: var(--text-secondary);
+  }
+  
+  .loading-spinner { /* From analyze.css */
+    border: 4px solid rgba(255, 255, 255, 0.2);
+    border-top: 4px solid var(--accent-primary);
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes spin { /* From analyze.css */
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  .status-message { /* From analyze.css */
+    font-weight: 500;
+    padding: 10px 15px;
+    border-radius: 6px;
+    white-space: pre-wrap;
+  }
+  
+  .status-message.success {
+    color: var(--accent-success);
+    background-color: rgba(102, 187, 106, 0.1);
+    border: 1px solid var(--accent-success);
+  }
+  
+  .status-message.error {
+    color: var(--accent-error);
+    background-color: rgba(239, 83, 80, 0.1);
+    border: 1px solid var(--accent-error);
+  }
+  .status-message.info {
+    color: var(--accent-secondary); /* Light Blue for info */
+    background-color: rgba(129, 212, 250, 0.1);
+    border: 1px solid var(--accent-secondary);
+  }
+  
+  
+  /* --- Content Display Area --- */
+  .content-section {
+    width: 100%;
+    max-width: 900px; /* Consistent */
+    margin-bottom: 30px;
+    padding: 25px 30px;
+    background-color: rgba(30, 30, 30, 0.8); /* Slightly different panel bg */
+    border-radius: 10px;
+    box-shadow: var(--shadow-light);
+    border: 1px solid var(--border-color-light);
+  }
+  
+  .content-title {
+    color: var(--accent-secondary); /* Light blue for these titles */
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    border-bottom: 1px solid var(--border-color-medium);
+    padding-bottom: 10px;
+  }
+  
+  .markdown-content {
+    color: var(--text-primary);
+    line-height: 1.7;
+  }
+  
+  /* Styles for ReactMarkdown output */
+  .markdown-content h1,
+  .markdown-content h2,
+  .markdown-content h3,
+  .markdown-content h4,
+  .markdown-content h5,
+  .markdown-content h6 {
+    color: var(--accent-primary);
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid var(--border-color-light);
+  }
+  .markdown-content h1 { font-size: 1.8em; }
+  .markdown-content h2 { font-size: 1.5em; } /* Match .content-title if it's an H2 */
+  .markdown-content h3 { font-size: 1.3em; }
+  
+  .markdown-content p {
+    margin-bottom: 1em;
+  }
+  
+  .markdown-content ul,
+  .markdown-content ol {
+    margin-bottom: 1em;
+    padding-left: 2em; /* Indent lists */
+  }
+  
+  .markdown-content li {
+    margin-bottom: 0.5em;
+  }
+  
+  .markdown-content code {
+    background-color: rgba(0,0,0,0.3);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.9em;
+  }
+  
+  .markdown-content pre {
+    background-color: rgba(0,0,0,0.4);
+    padding: 15px;
+    border-radius: 6px;
+    overflow-x: auto; /* Allow horizontal scrolling for wide code blocks */
+    border: 1px solid var(--border-color-light);
+  }
+  .markdown-content pre code {
+    background-color: transparent;
+    padding: 0;
+    border-radius: 0;
+    font-size: 0.9em; /* Ensure code inside pre is consistent */
+  }
+  
+  .markdown-content blockquote {
+    border-left: 4px solid var(--accent-secondary);
+    padding-left: 1em;
+    margin-left: 0;
+    margin-bottom: 1em;
+    color: var(--text-secondary);
+    font-style: italic;
+  }
+  
+  .markdown-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    border: 1px solid var(--border-color-medium);
+  }
+  
+  .markdown-content th,
+  .markdown-content td {
+    border: 1px solid var(--border-color-medium);
+    padding: 0.5em 0.75em;
+    text-align: left;
+  }
+  
+  .markdown-content th {
+    background-color: rgba(66, 66, 66, 0.7); /* Darker header for table */
+    color: var(--accent-primary);
+  }
+  
+  .content-placeholder {
+      width: 100%;
+      max-width: 900px;
+      padding: 30px;
+      text-align: center;
+      color: var(--text-secondary);
+      background-color: var(--bg-panel);
+      border-radius: 8px;
+      border: 1px dashed var(--border-color-medium);
+  }
+  
+  
+  /* --- Responsive Adjustments (Example, similar to AnalyzePage) --- */
+  @media (max-width: 768px) {
+    .course-main-content {
+        padding: 20px;
+    }
+    .course-control-panel, .content-section {
+        padding: 20px;
+    }
+    .course-action-buttons {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .button { /* Assuming .button is a global or copied class */
+        width: 100%;
+    }
+    .course-page-title {
+        font-size: 1.5em;
+    }
+    .content-title {
+        font-size: 1.3em;
+    }
+  }
+
+  .quiz-interactive-area .content-title {
+    color: var(--accent-tertiary); /* Purple or another distinct color for quiz */
+}
+
+.quiz-question {
+    background-color: rgba(255, 255, 255, 0.02); /* Subtle background per question */
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color-light);
+    border-left-width: 5px; /* Space for correctness indicator */
+    border-left-color: transparent; /* Default */
+    transition: border-left-color 0.3s ease;
+}
+
+.quiz-question.correct {
+    border-left-color: var(--accent-success);
+}
+
+.quiz-question.incorrect {
+    border-left-color: var(--accent-error);
+}
+
+.question-text {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    color: var(--text-primary);
+    line-height: 1.5;
+}
+.question-text strong { /* For (MC), (TF), (SA) prefix */
+    color: var(--accent-primary);
+    margin-right: 8px;
+    font-weight: bold;
+}
+
+.answer-input-area {
+    margin-bottom: 15px;
+}
+
+.quiz-option {
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+.quiz-option:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.quiz-option input[type="radio"] {
+    margin-right: 12px;
+    accent-color: var(--accent-primary); /* Colors the radio button itself */
+    width: 18px; /* Custom size */
+    height: 18px;
+    cursor: pointer;
+    flex-shrink: 0; /* Prevent shrinking if label is long */
+}
+
+.quiz-option label {
+    font-size: 1em;
+    color: var(--text-secondary);
+    cursor: pointer;
+    flex-grow: 1;
+}
+.quiz-option input[type="radio"]:checked + label {
+    color: var(--text-primary);
+    font-weight: 500; /* Slightly bolder */
+}
+
+.quiz-sa-input {
+    width: 100%;
+    padding: 12px 15px;
+    border-radius: 6px;
+    border: 1px solid var(--input-border);
+    background-color: var(--input-bg);
+    color: var(--input-text);
+    font-family: inherit;
+    font-size: 1em;
+    box-sizing: border-box;
+    resize: vertical;
+    min-height: 70px; /* Minimum height for SA input */
+}
+.quiz-sa-input:focus {
+    border-color: var(--input-focus-border);
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(var(--accent-primaryRGB), 0.3); /* Use RGB version of accent if available */
+}
+
+
+.feedback-area {
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 6px;
+    background-color: rgba(0,0,0,0.15); /* Darker background for feedback box */
+    border: 1px solid var(--border-color-light);
+}
+
+.feedback-area p {
+    margin-bottom: 10px;
+    font-size: 0.95em;
+    line-height: 1.6;
+}
+.feedback-area .user-answer-display,
+.feedback-area .correct-answer-display {
+    color: var(--text-secondary);
+}
+.feedback-area .user-answer-display strong,
+.feedback-area .correct-answer-display strong {
+    color: var(--text-primary);
+    font-weight: bold;
+}
+
+.feedback-area .result-text {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+.feedback-area .correct-text {
+    color: var(--accent-success);
+}
+.feedback-area .incorrect-text {
+    color: var(--accent-error);
+}
+
+.button-check-answer {
+    background-color: var(--accent-secondary);
+    color: var(--button-primary-text); /* Ensure good contrast */
+    padding: 10px 20px;
+    font-size: 0.95em;
+    margin-top: 10px;
+    /* Base .button styles are inherited */
+}
+.button-check-answer:hover:not(:disabled) {
+  background-color: #70c8ea; /* Slightly lighter/different shade of blue */
+}
+
+
+/* ... your existing styles ... */
+
+.button-download {
+  background-color: #28a745; /* Green */
+  color: white;
+}
+.button-download:hover {
+  background-color: #218838;
+}
+.button-download:disabled {
+  background-color: #94d3a2;
+  cursor: not-allowed;
+}
+
+.quiz-results-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 25px 40px; /* Increased padding */
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2); /* Softer shadow */
+  z-index: 1050; /* Ensure it's on top of other elements */
+  text-align: center;
+  border: 1px solid #ccc;
+  min-width: 300px; /* Minimum width */
+  max-width: 90%;
+}
+
+.quiz-results-popup h2 {
+  color: #333;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 1.8em;
+}
+
+.quiz-results-popup p {
+  font-size: 1.15em;
+  color: #555;
+  margin-bottom: 12px;
+}
+
+.quiz-results-popup .button-secondary { /* Style for close button */
+  margin-top: 20px;
+  background-color: #6c757d;
+  padding: 10px 25px;
+}
+.quiz-results-popup .button-secondary:hover {
+  background-color: #5a6268;
+}
+
+/* Use the specific class '.button-chat' or reuse '.button-primary' if style is the same */
+.button-primary  {
+  background-color: var(--button-primary-bg); /* Green for positive action */
+  color: var(--button-primary-text);
+  padding: 15px 40px; /* Larger padding */
+  font-size: 1.1em; /* Slightly larger font */
+  /* Inherits base .button styles */
+}
+.button-primary:hover:not(:disabled) {
+   background-color: #ffca28; /* Lighter green */
+}
+
+
+/* Optional: If you want to hide quiz when results are shown */
+/* .quiz-interactive-area.hidden-during-celebration {
+  display: none;
+} */
+
+/* PDF Render Mode (optional, if you want to apply temporary styles during html2canvas) */
+/*
+.pdf-render-mode {
+  background-color: white !important;
+  color: black !important;
+  font-size: 12px !important; // Or whatever looks good in PDF
+  width: 595px !important; // A4 width in px (approx for some DPIs)
+  box-sizing: border-box !important;
+  padding: 20px !important;
+}
+.pdf-render-mode img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+*/

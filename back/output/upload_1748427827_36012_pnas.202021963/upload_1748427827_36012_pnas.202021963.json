@@ -1,0 +1,121 @@
+[{
+  "caption": "Fig. 3. MRN, BRCA1, and CtIP associate with DSBs to orchestrate resection during the first 2 h of repair. (A) Kinetic trace of MRE11 colocalization with naDNA 0 to 16 h after 1 h of 100 nM CPT treatment. (B) Kinetic trace of BRCA1 colocalization with naDNA 0 to 16 h after 1 h of 100 nM CPT treatment. (C) Kinetic trace of CtIP colocalization with naDNA 0 to 16 h after 1 h of 100 nM CPT treatment. (D) Kinetic trace of 53BP1 colocalization with naDNA 0 to 16 h after 1 h of 100 nM CPT treatment. (E) Kinetic trace of EXO1 colocalization with naDNA 0 to 16 h after 1 h of 100 nM CPT treatment. (F) Kinetic trace of DNA2 colocalization with naDNA 0 to 16 h after 1 h of 100 nM CPT treatment. SEs are shown. ns shows P > 0.05 based on two-sample Student’s t test against undamaged cell colocalization levels. *P < 0.05 based on two-sample Student’s t test against undamaged cell colocalization levels; **P < 0.01 based on two-sample Student’s t test against undamaged cell colocalization levels; ***P < 0.001 based on two-sample Student’s t test against undamaged cell colocalization levels; ****P < 0.0001 based on two-sample Student’s t test against undamaged cell colocalization levels.",
+  "captionBoundary": {
+    "x1": 42.859771728515625,
+    "x2": 546.46923828125,
+    "y1": 300.61883544921875,
+    "y2": 367.3699951171875
+  },
+  "figType": "Figure",
+  "imageText": ["D", "FE", "ns", "ns", "****", "ns", "****", "*", "ns", "*", "***", "Control", "DNA2", "0", "4", "8", "12", "16", "Recovery", "time", "(hrs)", "N", "A", "n", "aD", "w", "ith", "io", "n", "iz", "at", "oc", "al", "C", "ol", "1.0", "2.6", "2.2", "1.4", "1.8", "N", "A", "n", "aD", "w", "ith", "io", "n", "iz", "at", "oc", "al", "C", "ol", "EXO1", "Control", "1.0", "2.6", "2.2", "1.4", "1.8", "0", "4", "8", "12", "16", "Recovery", "time", "(hrs)", "53BP1", "1.9", "Control", "0", "4", "8", "12", "16", "Recovery", "time", "(hrs)", "N", "A", "n", "aD", "w", "ith", "io", "n", "iz", "at", "oc", "al", "C", "ol", "1.3", "1.5", "1.7", "2.1", "ns", "***", "Control", "***", "ns", "*", "***", "Control", "***", "Control", "A", "CB", "N", "A", "n", "aD", "w", "ith", "io", "n", "iz", "at", "oc", "al", "C", "ol", "N", "A", "n", "aD", "w", "ith", "io", "n", "iz", "at", "oc", "al", "C", "ol", "Recovery", "time", "(hrs)", "1.0", "0", "4", "8", "12", "16", "1.2", "2.0", "2.2", "2.4", "1.4", "1.6", "1.8", "0", "4", "8", "12", "16", "Recovery", "time", "(hrs)", "2.0", "2.2", "2.4", "1.4", "1.6", "1.8", "0", "4", "8", "12", "16", "Recovery", "time", "(hrs)", "N", "A", "n", "aD", "w", "ith", "io", "n", "iz", "at", "oc", "al", "C", "ol", "1.2", "1.4", "1.6", "BRCA1", "CtIPMRE111.8", "ns"],
+  "name": "3",
+  "page": 5,
+  "regionBoundary": {
+    "x1": 129.6,
+    "x2": 461.28,
+    "y1": 54.239999999999995,
+    "y2": 289.92
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427827_36012_pnas.202021963\\image\\upload_1748427827_36012_pnas.202021963-Figure3-1.png"
+}, {
+  "caption": "Fig. 4. The spatial organization of NBS1, 53BP1, MRE11, BRCA1, and CtIP demonstrates high levels of colocalization at the same repair foci with dynamic spatially proximal and distal arrangements. (A) Analysis of the internal organization of MRE11 and NBS1 costained and colocalized with naDNA after 1 h of 100 nM CPT treatment. MRE11/ NBS1 shows a high level of colocalization at repair foci with a minor fraction (12.0%) MRE11 only (cumulative bar graph). Colocalized MRE11 and NBS1 have a strongly proximal association distribution at 0 h, indicative of closely associated proteins. (B) Analysis of the internal organization of 53BP1 and BRCA1 costained and colocalized with naDNA at 0 and 1 h after 1 h of 100 nMCPT treatment; 53BP1/BRCA1 shows a high level of colocalization at repair foci withminor fractions (5 to 25%) demonstrablyMRE11only or 53BP1-only foci (cumulative bar graph). Colocalized 53BP1 and BRCA1 have a moderately distal association distribution at 0 h that increases in separation at 1 h. (C) Analysis of the internal organization ofMRE11 and BRCA1 costained and colocalizedwith naDNA at 0, 1, and 2 h after 1 h of 100 nMCPT treatment. MRE11/BRCA1 shows a high level of colocalization at repair foci withminor fractions (9 to 24%) demonstrablyMRE11-only or BRCA1-only foci (cumulative bar graph). ColocalizedMRE11 and BRCA1 have a predominantly proximal association distribution at 0 h, both proximal and distal subpopulations at 1 h, and a predominantly distal distribution by 2 h. (D) Analysis of the internal organization of CtIP and BRCA1 costained and colocalized with naDNA at 0, 1, and 2 h after 1 h of 100 nM CPT treatment. BRCA1/CtIP shows a similarly high degree of colocalization across time points and even smaller fractions (<8 to 16%) as CtIP-only and BRCA1-only foci. Colocalized CtIP and BRCA1 are predominantly proximal in their association distribution across all times with a persistent population of distal, uncomplexed species. (E) Analysis of the internal organization of MRE11 and CtIP costained and colocalized with naDNA at 0, 1, and 2 h after 1 h of 100 nM CPT treatment. CtIP/MRE11 also shows a high degree of colocalization and minor fractions (8 to 26%) of CtIP-only and MRE11-only foci. Colocalized CtIP and MRE11 initially displayed almost equal fractions in distal and proximal arrangements before a shift toward a more proximal distribution at 1 h and then, toward a predominantly distal distribution at 2 h. In all images, the overlaid red contour map outline shows the modeled distribution of closely associated proteins. Representative distal and proximal foci are also shown. (Scale bars: 250 nm.)",
+  "captionBoundary": {
+    "x1": 38.381099700927734,
+    "x2": 541.9810180664062,
+    "y1": 409.5826416015625,
+    "y2": 548.051025390625
+  },
+  "figType": "Figure",
+  "imageText": ["G", "Y", "BI", "O", "LO", "CE", "LL", "NBS1", "Complexed", "distribution", "MRE11", "t", "=", "0", "hr", "17.9%", "21.4%", "60.7%", "Complexed", "distribution", "im", "al", "Pr", "ox", "E", "D", "BRCA1", "53BP1", "ta", "l", "D", "is", "Proximal", "Distal", "Complexed", "distribution", "Proximal", "Distal", "BRCA1", "53BP1", "53BP1/BRCA1", "MRE11/NBS1", "Intrafoci", "Analysis", "53BP1/BRCA1", "Intrafoci", "Analysis", "t", "=", "1", "hrs", "t", "=", "1", "hr", "5.5%", "22.9%", "MRE11/NBS1", "71.6%", "MRE11", "83.7%", "NBS1", "4.3%", "12.0%", "naDNA", "ta", "l", "D", "is", "im", "al", "Pr", "ox", "CtIP", "MRE11", "MRE11", "CtIP", "naDNA", "ta", "l", "D", "is", "im", "al", "Pr", "ox", "CtIP", "BRCA1", "CtIP", "BRCA1", "naDNA", "BRCA1", "MRE11", "BRCA1", "MRE11", "ta", "l", "D", "is", "im", "al", "Pr", "ox", "CtIP/MRE11", "Intrafoci", "Analysis", "CtIP/BRCA1", "Intrafoci", "Analysis", "MRE11/BRCA1", "Intrafoci", "Analysis", "Protein-Protein", "Association", "Distribution", "Protein-Protein", "Association", "Distribution", "Protein-Protein", "Association", "Distribution", "Complexed", "distribution", "Complexed", "distribution", "Complexed", "distribution", "Proximal", "Distal", "Proximal", "Distal", "Proximal", "Distal", "Proximal", "Distal", "Proximal", "Distal", "Proximal", "Distal", "Proximal", "Distal", "Proximal", "Distal", "Proximal", "Distal", "A", "t", "=", "0", "hrs", "t", "=", "1", "hr", "t", "=", "2", "hrs", "t", "=", "0", "hrs", "t", "=", "1", "hr", "t", "=", "2", "hrs", "C", "t", "=", "0", "hrs", "t", "=", "1", "hr", "t", "=", "2", "hrs", "8.0%", "16.1%", "75.9%", "12.1%", "22.7%", "65.2%", "9.2%", "25.3%", "CtIP/MRE11", "65.5%", "MRE11", "CtIP", "12.3%", "15.4%", "72.3%", "14.3%", "8.3%", "CtIP/BRCA1", "77.4%", "13.3%", "15.7%BRCA1", "CtIP", "71.1%", "14.1%", "23.5%", "62.4%", "BRCA1", "MRE11", "MRE11/BRCA1", "58.3%", "23.4%", "18.3%", "78.1%", "12.3%", "9.6%", "B", "Proximal", "Distal"],
+  "name": "4",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 130.07999999999998,
+    "x2": 584.16,
+    "y1": 54.239999999999995,
+    "y2": 399.84
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427827_36012_pnas.202021963\\image\\upload_1748427827_36012_pnas.202021963-Figure4-1.png"
+}, {
+  "caption": "Fig. 6. MRE11 nuclease inhibition using Mirin and PFM01 completely abrogates resection at DSBs, causing delayed repair and apoptosis even after removal of Mirin. (A) Kinetic trace of RPA colocalization with naDNA 0 to 16 h after 1 h of CPT treatment in combination with Mirin (black trace) or with a DMSO control (red). Adapted with permission from ref. 27, which is licensed under CC BY 4.0. (B) Quantification of Ku association with repair foci in control cells, cells treated with CPT, both CPT + Mirin, both CPT + PFM01, and with CPT + Mirin + PFM01. (C) Quantification of MRE11 association with repair foci in control cells, cells treated with CPT, both CPT + Mirin, both CPT + PFM01, and with CPT + Mirin + PFM01. (D) Quantification of BRCA1 association with repair foci in control cells, cells treated with CPT, both CPT + Mirin, both CPT + PFM01, and with CPT + Mirin + PFM01. Controls are shown for comparison. DMSO signifies dimethyl sulfoxide controls. Student’s t test results show significance of difference between CPT-only and CPT + Mirin treatments at indicated times post-CPT. SEs are shown. ns shows P > 0.05. *P < 0.05; **P < 0.01; ***P < 0.001; ****P < 0.0001.",
+  "captionBoundary": {
+    "x1": 42.859798431396484,
+    "x2": 546.4684448242188,
+    "y1": 444.675537109375,
+    "y2": 511.42669677734375
+  },
+  "figType": "Figure",
+  "imageText": ["ns", "***", "****", "**", "ns", "ns", "ns", "****", "**", "ns", "**", "****", "ns", "ns", "****", "**", "4", "-", "+", "+", "+", "4", "-", "+", "-", "+", "4", "-", "+", "+", "-", "4", "-", "+", "-", "-", "2", "-", "+", "+", "+", "2", "-", "+", "-", "+", "2", "-", "+", "+", "-", "2", "-", "+", "-", "-", "1", "-", "+", "+", "+", "1", "-", "+", "-", "+", "1", "-", "+", "+", "-", "1", "-", "+", "-", "-", "0", "-", "+", "+", "+", "0", "-", "+", "-", "+", "0", "-", "+", "+", "-", "0", "-", "+", "-", "-", "0", "+", "-", "-", "-", "CPT", "Mirin", "(exo)", "PFM01", "(endo)", "Recovery", "(hrs)", "DMSO", "2.5", "2.0", "1.5", "1.0", "0.5", "0.0", "***", "***", "**", "ns", "****", "nsns", "****", "****", "ns", "****", "*", "****", "ns", "****", "****", "***", "ns", "***", "****", "ns", "**", "****", "****", "***", "4", "-", "+", "+", "+", "4", "-", "+", "-", "+", "4", "-", "+", "+", "-", "4", "-", "+", "-", "-", "2", "-", "+", "+", "+", "2", "-", "+", "-", "+", "2", "-", "+", "+", "-", "2", "-", "+", "-", "-", "1", "-", "+", "+", "+", "1", "-", "+", "-", "+", "1", "-", "+", "+", "-", "1", "-", "+", "-", "-", "0", "-", "+", "+", "+", "0", "-", "+", "-", "+", "0", "-", "+", "+", "-", "0", "-", "+", "-", "-", "0", "+", "-", "-", "-", "CPT", "Mirin", "(exo)", "PFM01", "(endo)", "Recovery", "(hrs)", "DMSO", "2.0", "1.5", "1.0", "0.5", "0.0", "ns", "***", "ns", "ns", "****", "****", "**", "ns", "2.5", "2.0", "1.5", "1.0", "0.5", "0.0", "1", "-", "+", "+", "+", "1", "-", "+", "-", "+", "1", "-", "+", "+", "-", "1", "-", "+", "-", "-", "0", "-", "+", "+", "+", "0", "-", "+", "-", "+", "0", "-", "+", "+", "-", "0", "-", "+", "-", "-", "0", "+", "-", "-", "-", "N", "A", "n", "aD", "w", "ith", "io", "n", "iz", "at", "oc", "al", "C", "ol", "C", "MRE11", "BRCA1", "N", "A", "n", "aD", "w", "ith", "io", "n", "iz", "at", "oc", "al", "C", "ol", "CPT", "Mirin", "(exo)", "PFM01", "(endo)", "Recovery", "(hrs)", "DMSO", "Ku", "D", "A", "B", "Recovery", "time", "(hrs)", "rla", "p", "O", "ve", "N", "A", "n", "aD", "iz", "ed", "m", "al", "N", "or", "1", "0.5", "0.0", "RPA", "in", "CPT", "treated", "cells", "RPA", "in", "CPT+Mirin", "treated", "cells", "0", "4", "8", "12", "16"],
+  "name": "6",
+  "page": 9,
+  "regionBoundary": {
+    "x1": 157.92,
+    "x2": 432.47999999999996,
+    "y1": 54.239999999999995,
+    "y2": 433.44
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427827_36012_pnas.202021963\\image\\upload_1748427827_36012_pnas.202021963-Figure6-1.png"
+}, {
+  "caption": "Fig. 1. SR imaging of repair proteins recruited to individual seDSBs in human cells. (A) The experimental protocol used to label and break RFs into seDSBs in order to capture snapshots of the arrivals, accumulations, and departures of repair proteins. TopI, Topoisomerase I; DDR, DNA damage response. (B) Representative epifluorescence (upper left) and SR (lower right) images of a single nucleus damaged and labeled for naDNA (using EdU; magenta), MRE11 (cyan), and CtIP (yellow). (B, i and ii) Representative zoomed-in epifluorescence and (B, iii and iv) SR foci are shown. (Scale bars: i and ii, 500 nm; iii and iv, 250 nm.) (C) Schematic showing the analytical process for quantifying protein colocalization with repair foci by generating Monte Carlo randomized simulation images for each SR nucleus image and then using the number of overlaps in the random simulations to normalize the real data. For each cell, this normalized “colocalization ratio” can be plotted (e.g., one normalized cell value is circled in red) and compared with truly random levels (=1) and with control levels in untreated control cells. (D) The interrelationships between proteins localized to repair foci were further quantified by calculating the percentage of naDNA foci positive for one or both stained proteins. This determined the degree of colocalization between proteins at repair sites, as well as exclusion and dependence relationships. (E) The spatial relationship of pairs of proteins colocalized at repair foci could be determined by measuring the distance between the protein foci centers of mass and generating a histogram. This was then extrapolated to generate a protein–protein association distribution two-dimensional heat map. By staining RAD51 with two different fluorophores, we could model the expected association distribution for proximally associated proteins for comparison with proteins that are distally associated at repair foci. Representative foci show proximal and distal overlaps as observed in dual-stained RAD51 (proximal; magenta: naDNA, cyan/yellow: RAD51) and in MRE11 (cyan) and CtIP (yellow; distal; magenta: naDNA). (F–H) Scatterplots showing quantification of colocalization between (F) MRE11, (G) CtIP, (H) BRCA1, and (I) 53BP1 with naDNA in untreated control cells and cells treated with 100 nM CPT for 1 h. Black bars depict medians, and diamonds show the means. ***P < 0.001 in a two-sample Student’s t test; ****P < 0.0001 in a two-sample Student’s t test.",
+  "captionBoundary": {
+    "x1": 38.37907409667969,
+    "x2": 541.9842529296875,
+    "y1": 353.1164245605469,
+    "y2": 491.5848083496094
+  },
+  "figType": "Figure",
+  "imageText": ["G", "Y", "BI", "O", "LO", "CE", "LL"],
+  "name": "1",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 554.88,
+    "x2": 584.16,
+    "y1": 271.68,
+    "y2": 338.4
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427827_36012_pnas.202021963\\image\\upload_1748427827_36012_pnas.202021963-Figure1-1.png"
+}, {
+  "caption": "Fig. 2. Quantification of RPA and BrdU overlap signals with naDNA shows resection progression. (A) A schematic model showing labeling for RPA and ssDNA as resection progresses. (B) Kinetic trace of RPA colocalization with naDNA 0 to 16 h after 1 h of 100 nM CPT treatment. (C) Kinetic trace of ssDNA (detected as undenatured BrdU) colocalization with naDNA 0 to 16 h after 1 h of 100 nM CPT treatment. SEs are shown. *P < 0.05 based on twosample Student’s t test comparing damaged time point data with control undamaged cell colocalization levels; **P < 0.01 based on two-sample Student’s t test comparing damaged time point data with control undamaged cell colocalization levels; ***P < 0.001 based on two-sample Student’s t test comparing damaged time point data with control undamaged cell colocalization levels.",
+  "captionBoundary": {
+    "x1": 301.3794860839844,
+    "x2": 546.4644775390625,
+    "y1": 317.11651611328125,
+    "y2": 419.75347900390625
+  },
+  "figType": "Figure",
+  "imageText": ["EdU", "clicked", "fluorophore", "RPA", "Incorporated", "BrdU", "C", "After", "resection", "Tim", "e", "Before", "resection", "Fluorophore-conjugated", "anti-BrdU", "Fluorophore-conjugated", "anti-RPA", "DSB", "End", "***", "***", "**", "*", "**", "***", "**", "Control", "Control", "2.0", "2.2", "3.2", "3.6", "B", "BrdU", "A", "0", "4", "8", "12", "16", "Recovery", "time", "(hrs)", "0", "4", "8", "12", "16", "Recovery", "time", "(hrs)", "2.8", "C", "ol", "oc", "al", "iz", "at", "io", "n", "w", "ith", "n", "aD", "N", "A", "2.4", "4.0", "3.2", "2.4", "2.0", "2.8", "3.6", "4.0", "C", "ol", "oc", "al", "iz", "at", "io", "n", "w", "ith", "n", "aD", "N", "A", "RPA"],
+  "name": "2",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 302.4,
+    "x2": 546.24,
+    "y1": 54.239999999999995,
+    "y2": 306.24
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427827_36012_pnas.202021963\\image\\upload_1748427827_36012_pnas.202021963-Figure2-1.png"
+}, {
+  "caption": "Fig. 5. BLM is involved dynamically with nucleases EXO1, DNA2, and MRE11 during resection. (A) Kinetic trace of BLM colocalization with naDNA 0 to 16 h after 1 h of 100 nM CPT treatment. **P < 0.01 based on two-sample Student’s t test against undamaged cell colocalization levels; ***P < 0.001 based on twosample Student’s t test against undamaged cell colocalization levels. (B) Analysis of the internal organization of MRE11 and BLM costained and colocalized with naDNA 0, 1, and 2 h after 1 h of 100 nM CPT treatment. MRE11/BLM shows a moderate, increasing to high level of colocalization at repair foci, with significant MRE11 only observed at the 0-h time point. Colocalized MRE11 and BLM have a mixed proximal and distal arrangement immediately following damage, indicating both complexed and spatially separated species. At 1 and 2 h, the spatial arrangement indicates separation of MRE11 and BLM. (C) Analysis of the internal organization of EXO1 and BLM costained and colocalized with naDNA 1 h after treatment with 100 nM CPT for 1 h. Significant levels of EXO1/BLM colocalization at damage foci are detected along with EXO1 and BLM localizations independent of each other. Spatially, colocalized EXO1/BLM shows a moderately distal arrangement indicating the predominance of spatial independence. (D) Analysis of the internal organization of DNA2 and BLM costained and colocalized with naDNA 1 h after treatment with 100 nM CPT for 1 h. Significant levels of DNA2/BLM colocalization at damage foci are detected along with BLM localizations independent of DNA2 presence. Minimal DNA2 localization to damage foci is detected independent of BLM, indicating DNA2’s dependence on BLM. Spatially, colocalized DNA2/BLM shows a more proximal arrangement compared with EXO1/BLM, indicating increased interaction, although still with some proteins spatially separated within the foci. (E) Analysis of the internal organization of EXO1 and DNA2 costained and colocalized with naDNA 1 h after treatment with 100 nM CPT for 1 h. Significant levels of EXO1/DNA2 colocalization at damage foci are detected along with EXO1 and DNA2 localizations independent of each other. Spatially, colocalized EXO1/DNA2 shows a moderately proximal arrangement similar to DNA2/BLM, indicating some instances of both interaction and spatial separation. SEs are shown.",
+  "captionBoundary": {
+    "x1": 38.379669189453125,
+    "x2": 542.0053100585938,
+    "y1": 349.3747253417969,
+    "y2": 487.8431091308594
+  },
+  "figType": "Figure",
+  "imageText": ["G", "Y", "BI", "O", "LO", "CE", "LL", "Protein-Protein", "Association", "Distribution", "Protein-Protein", "Association", "Distribution", "Protein-Protein", "Association", "Distribution", "Protein-Protein", "Association", "Distribution", "Protein-Protein", "Association", "Distribution", "Proximal", "Distal", "Proximal", "Distal", "Proximal", "Distal", "t", "=", "1", "hrs", "EXO1/DNA2", "Intrafoci", "Analysis", "24.2%", "17.7%", "58.1%", "DNA2", "EXO1", "EXO1/DNA2", "E", "t", "=", "1", "hrs", "DNA2/BLM", "Intrafoci", "Analysis", "DNA2/BLM", "DNA2", "55.1%", "BLM", "41.8%", "3.1%", "D", "t", "=", "1", "hrs", "EXO1/BLM", "Intrafoci", "Analysis", "EXO1/BLM", "EXO1", "47.6%", "BLM", "23.4%", "29.0%", "C", "Complexed", "distribution", "Complexed", "distribution", "Complexed", "distribution", "Proximal", "Distal", "Proximal", "Distal", "Proximal", "Distal", "14.2%", "80.8%", "5.0%", "BLM/MRE11", "Intrafoci", "Analysis", "4.4%", "t", "=", "2", "hrt", "=", "0", "hr", "MRE11/BLM", "54.9%", "40.7%", "BLM", "MRE11", "**", "**", "***", "B", "***", "1.2", "0", "4", "8", "12", "16", "Recovery", "time", "(hrs)", "Control", "A", "N", "A", "n", "aD", "w", "ith", "io", "n", "iz", "at", "oc", "al", "C", "ol", "2.0", "2.2", "1.4", "1.6", "1.8", "27.9%", "t", "=", "1", "hr", "65.9%", "12.4%", "BLM", "Protein-Protein", "Association", "Distribution"],
+  "name": "5",
+  "page": 8,
+  "regionBoundary": {
+    "x1": 39.36,
+    "x2": 584.16,
+    "y1": 54.239999999999995,
+    "y2": 338.4
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1748427827_36012_pnas.202021963\\image\\upload_1748427827_36012_pnas.202021963-Figure5-1.png"
+}]

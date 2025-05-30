@@ -1,0 +1,211 @@
+.modal-overlay {
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.75); /* Darker overlay */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px; /* Add padding for smaller screens */
+  box-sizing: border-box;
+}
+
+.modal-content {
+  background-color: #2a2a2a; /* Dark background */
+  color: #eee; /* Light text */
+  margin: auto;
+  padding: 25px 35px;
+  border: 1px solid #444;
+  width: 85%;
+  max-width: 900px; /* Slightly wider if needed for images/text */
+  position: relative;
+  border-radius: 8px;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+}
+
+/* Custom scrollbar for dark theme (WebKit browsers) */
+.modal-content::-webkit-scrollbar {
+  width: 8px;
+}
+.modal-content::-webkit-scrollbar-track {
+  background: #333;
+  border-radius: 4px;
+}
+.modal-content::-webkit-scrollbar-thumb {
+  background-color: #666;
+  border-radius: 4px;
+  border: 2px solid #333;
+}
+.modal-content::-webkit-scrollbar-thumb:hover {
+  background-color: #888;
+}
+
+
+.modal-close-button {
+  color: #aaa;
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  background: none;
+  border: none;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0;
+}
+
+.modal-close-button:hover,
+.modal-close-button:focus {
+  color: #fff;
+  text-decoration: none;
+}
+
+.modal-section {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #444;
+}
+.modal-section:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.modal-content h2 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #fff;
+  border-bottom: 1px solid #555;
+  padding-bottom: 10px;
+  font-size: 1.6em; /* Slightly larger */
+}
+
+.modal-content h3 {
+  margin-top: 0;
+  margin-bottom: 12px; /* More space below H3 */
+  color: #ddd;
+  font-size: 1.2em; /* Slightly larger */
+}
+
+.modal-content p {
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+.modal-content p strong {
+    color: #ccc; /* Brighter strong text */
+    margin-right: 5px;
+}
+
+
+.modal-content pre {
+  background-color: #1e1e1e; /* Even darker for code blocks */
+  color: #d4d4d4; /* Common light text color for dark IDEs */
+  padding: 15px;
+  border-radius: 4px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  max-height: 300px; /* Allow more height */
+  overflow-y: auto;
+  font-size: 0.9em;
+  border: 1px solid #444;
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace; /* Monospace font */
+}
+
+.timestamps {
+    margin-top: 25px;
+    padding-top: 15px;
+    border-top: 1px solid #444;
+}
+.timestamps small {
+  color: #aaa; /* Slightly brighter small text */
+  display: block;
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+
+.loading-message {
+    font-style: italic;
+    color: #bbb;
+}
+
+.error-message {
+  color: #ff8a8a;
+  font-weight: bold;
+  background-color: rgba(255, 100, 100, 0.1);
+  border: 1px solid #ff8a8a;
+  padding: 10px 15px;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+/* Styling for Figures/Tables container */
+.figure-container {
+    margin-bottom: 20px; /* Space between figures/tables */
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #555; /* Dashed separator between figures */
+}
+.figure-container:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.figure-caption {
+    font-style: italic;
+    color: #ccc;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+.figure-caption strong {
+    font-style: normal;
+    color: #ddd;
+}
+
+
+/* Styling for the Base64 images */
+.modal-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 10px auto 15px auto; /* Adjust vertical margin */
+  background-color: #fff; /* White background for images */
+  border: 1px solid #555;
+  border-radius: 4px;
+  padding: 5px; /* Small padding around image */
+  box-sizing: border-box;
+}
+
+
+/* ... (keep all previous styles) ... */
+
+/* Styling for Section Summaries */
+.section-summary-item {
+  margin-bottom: 15px; /* Space between summary items */
+  padding-left: 10px; /* Indent summary slightly */
+  border-left: 3px solid #555; /* Add a left border for visual separation */
+}
+
+.section-summary-item h4 {
+  font-size: 1.1em;
+  color: #ddd;
+  margin-bottom: 5px; /* Less space between title and summary */
+  font-weight: bold;
+}
+
+.section-summary-item p {
+  margin-bottom: 5px; /* Less space below summary paragraph */
+  color: #ccc; /* Slightly dimmer text for summaries */
+}
+
+.section-summary-item p i { /* Style for italic fallbacks */
+  color: #aaa;
+}

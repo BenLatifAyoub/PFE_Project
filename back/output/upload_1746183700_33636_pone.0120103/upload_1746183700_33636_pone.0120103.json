@@ -1,0 +1,41 @@
+[{
+  "caption": "Fig 1. Timeline of the experiment. S = saliva sample.",
+  "captionBoundary": {
+    "x1": 36.0,
+    "x2": 224.50799560546875,
+    "y1": 693.2426147460938,
+    "y2": 697.946533203125
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 36.0,
+    "x2": 576.0,
+    "y1": 592.8,
+    "y2": 685.4399999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746183700_33636_pone.0120103\\image\\upload_1746183700_33636_pone.0120103-Figure1-1.png"
+}, {
+  "caption": "Fig 2. Predictors for football fan aggression. The relationship between participants’ personal characteristics and situational factors with physical aggression (amount of hot sauce).? = significant predictor (p< 0.05), × = no significant predictor (p> 0.10), # = marginally significant predictor (p< 0.10).",
+  "captionBoundary": {
+    "x1": 36.0,
+    "x2": 565.3583984375,
+    "y1": 470.7796630859375,
+    "y2": 485.00830078125
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "2",
+  "page": 8,
+  "regionBoundary": {
+    "x1": 36.0,
+    "x2": 475.2,
+    "y1": 77.75999999999999,
+    "y2": 462.24
+  },
+  "renderDpi": 150,
+  "renderURL": "C:\\Users\\MSI\\OneDrive\\Documents\\Desktop\\5idma\\FrontBackPFE\\back\\output\\upload_1746183700_33636_pone.0120103\\image\\upload_1746183700_33636_pone.0120103-Figure2-1.png"
+}]
